@@ -65,7 +65,7 @@ export function TitleSection() {
             flex-col
             gap-2`}
         >
-          <div className="block">ROBERTS</div>
+          <div className="block text-roberts_red-500">ROBERTS</div>
           <div className="block">ELEMENTARY</div>
           <div className="block text-roberts_red-400">PTA</div>
         </div>

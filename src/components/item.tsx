@@ -6,11 +6,11 @@ import { IconCopy } from "@tabler/icons-react";
 
 export default function Item({ name, url }: { name: string; url: string }) {
   // Reference for the copy button
-  const copyButtonRef = useRef(null);
+  const copyButtonRef = useRef<HTMLButtonElement>(null);
 
   useEffect(() => {
     // Initialize ClipboardJS when the component mounts
-    const clipboard = new ClipboardJS(copyButtonRef.current, {
+    const clipboard = new ClipboardJS(copyButtonRef.current!, {
       text: () => url, // Function to get the text to copy
     });
 
