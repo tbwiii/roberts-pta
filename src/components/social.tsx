@@ -24,7 +24,7 @@ const links = [
 
 export default function Social() {
   return (
-    <BlurFade yOffset={20} blur="6px">
+    <BlurFade blur="10px" yOffset={20} delay={1}>
       <div className="flex items-center gap-8">
         {links.map(({ icon, url }, index) => {
           return (

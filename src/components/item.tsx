@@ -1,10 +1,18 @@
 "use client";
-import { useEffect, useRef } from "react";
+import { ReactNode, useEffect, useRef } from "react";
 import ClipboardJS from "clipboard";
 import { Tooltip } from "react-tooltip";
-import { IconCopy } from "@tabler/icons-react";
+import { IconCopy, IconUsersGroup } from "@tabler/icons-react";
 
-export default function Item({ name, url }: { name: string; url: string }) {
+export default function Item({
+  name,
+  url,
+  icon,
+}: {
+  name: string;
+  url: string;
+  icon: ReactNode;
+}) {
   // Reference for the copy button
   const copyButtonRef = useRef<HTMLButtonElement>(null);
 
@@ -33,23 +41,27 @@ export default function Item({ name, url }: { name: string; url: string }) {
         rounded-md
         overflow-hidden
         font-light
-        text-roberts_blue-900
         w-full`}
     >
       <a
         className="
-          block
+          flex
+          items-center
+          gap-4
           p-4
           transition-all
           bg-slate-300
-          hover:text-roberts_red-500
-          hover:bg-roberts-500
+          hover:bg-slate-200
+          text-roberts_blue-700
+          group
+          shadow-md
           md:text-xl
           uppercase
           col-span-6
           md:col-span-7"
         href={url}
       >
+        <span className="group-hover:text-roberts_red-400">{icon}</span>
         <span className="font-roberts">{name}</span>
       </a>
       <button
@@ -61,7 +73,7 @@ export default function Item({ name, url }: { name: string; url: string }) {
           rounded-l-none;
           flex
           transition-all
-          bg-slate-500
+          bg-roberts_red-400
           text-white
           hover:bg-roberts-500
           items-center

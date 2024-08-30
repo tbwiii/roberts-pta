@@ -19,8 +19,8 @@ function App() {
       gap-10"
     >
       <TitleSection />
-      <Social />
       <ItemList />
+      <Social />
     </div>
   );
 }
