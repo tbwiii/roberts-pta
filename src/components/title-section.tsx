@@ -37,10 +37,10 @@ const Flames = () => (
 
 export function TitleSection() {
   return (
-    <div className="flex max-sm:flex-col gap-28 -mb-4 items-center">
+    <div className="flex max-sm:flex-col gap-4 lg:gap-28 -mb-4 items-center">
       <BlurFade blur="10px" xOffset={-20} duration={0.8}>
         <div className="animate-float">
-          <div className="animate-wiggle">
+          <div className="animate-wiggle w-36 lg:w-44">
             <img
               className="
                 relative
@@ -57,7 +57,7 @@ export function TitleSection() {
           className={`
             translate-x-[20px]
             text-white
-            text-4xl
+            text-5xl
             lg:text-7xl
             text-left
             font-black
