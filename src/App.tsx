@@ -16,7 +16,9 @@ function App() {
       min-h-screen
       justify-center
       items-center
-      gap-10"
+      gap-10
+      overflow-hidden
+      max-md:container"
     >
       <TitleSection />
       <ItemList />
