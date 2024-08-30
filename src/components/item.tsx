@@ -2,7 +2,7 @@
 import { ReactNode, useEffect, useRef } from "react";
 import ClipboardJS from "clipboard";
 import { Tooltip } from "react-tooltip";
-import { IconCopy, IconUsersGroup } from "@tabler/icons-react";
+import { IconCopy } from "@tabler/icons-react";
 
 export default function Item({
   name,
