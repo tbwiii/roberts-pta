@@ -11,7 +11,6 @@ import {
   IconInfoSquareRoundedFilled,
   IconTicket,
 } from "@tabler/icons-react";
-import { useNavigate } from "react-router-dom";
 
 interface Link {
   name: string;
