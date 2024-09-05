@@ -3,7 +3,7 @@ import React, { CSSProperties } from "react";
 import { cn } from "../../../src/lib/utils";
 
 export interface ShimmerButtonProps
-  extends React.ButtonHTMLAttributes<HTMLButtonElement> {
+  extends React.AnchorHTMLAttributes<HTMLAnchorElement> {
   shimmerColor?: string;
   shimmerSize?: string;
   borderRadius?: string;
@@ -14,18 +14,21 @@ export interface ShimmerButtonProps
   href?: string;
 }
 
-const ShimmerButton = React.forwardRef<HTMLButtonElement, ShimmerButtonProps>(
-  ({
-    shimmerColor = "white",
-    shimmerSize = "0.05em",
-    shimmerDuration = "3s",
-    borderRadius = "7px",
-    background = "rgba(220, 87, 70,1)",
-    className,
-    children,
-    href,
-    ...props
-  }) => {
+const ShimmerButton = React.forwardRef<HTMLAnchorElement, ShimmerButtonProps>(
+  (
+    {
+      shimmerColor = "white",
+      shimmerSize = "0.05em",
+      shimmerDuration = "3s",
+      borderRadius = "7px",
+      background = "rgba(220, 87, 70,1)",
+      className,
+      children,
+      href,
+      ...props
+    },
+    ref
+  ) => {
     return (
       <a
         href={href}
@@ -60,6 +63,7 @@ const ShimmerButton = React.forwardRef<HTMLButtonElement, ShimmerButtonProps>(
           className
         )}
         {...props}
+        ref={ref}
       >
         {/* spark container */}
         <div
