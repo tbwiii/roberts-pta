@@ -1,6 +1,7 @@
 import { ReactNode } from "react";
 import Item from "./item";
 import BlurFade from "./magicui/blur-fade";
+import ShimmerButton from "./magicui/shimmer-button";
 import {
   IconUsersGroup,
   IconClipboard,
@@ -8,7 +9,9 @@ import {
   IconShirtFilled,
   IconHeartHandshake,
   IconInfoSquareRoundedFilled,
+  IconTicket,
 } from "@tabler/icons-react";
+import { useNavigate } from "react-router-dom";
 
 interface Link {
   name: string;
@@ -49,19 +52,30 @@ const links: Link[] = [
   },
 ];
 
-const ItemList = () => (
-  <ul className="max-w-lg mx-auto grid gap-6 mb-6 w-full">
-    {links.map((link: Link, index: number) => (
-      <BlurFade
-        key={index}
-        xOffset={-10}
-        duration={0.35}
-        delay={(index + 9) * 0.1}
-      >
-        <Item key={index} name={link.name} url={link.url} icon={link.icon} />
+const ItemList = () => {
+  return (
+    <ul className="max-w-lg mx-auto grid gap-6 mb-6 w-full">
+      <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
+        <ShimmerButton
+          className="shadow-2xl"
+          href="https://roberts.givebacks.com/store/items/1082764"
+        >
+          <IconTicket size={24} />
+          Buy Dance Tickets
+        </ShimmerButton>
       </BlurFade>
-    ))}
-  </ul>
-);
+      {links.map((link: Link, index: number) => (
+        <BlurFade
+          key={index}
+          xOffset={-10}
+          duration={0.35}
+          delay={(index + 9) * 0.1}
+        >
+          <Item key={index} name={link.name} url={link.url} icon={link.icon} />
+        </BlurFade>
+      ))}
+    </ul>
+  );
+};
 
 export default ItemList;
