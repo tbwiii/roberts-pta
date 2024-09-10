@@ -10,6 +10,7 @@ import {
   IconHeartHandshake,
   IconInfoSquareRoundedFilled,
   IconTicket,
+  IconBasket,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -19,6 +20,11 @@ interface Link {
 }
 
 const links: Link[] = [
+  {
+    name: "Raffle Baskets",
+    url: "https://roberts.givebacks.com/store?limit=21&live=true&category=Raffle%20Baskets",
+    icon: <IconBasket size={24} />,
+  },
   {
     name: "Join the PTA",
     url: "https://jointotem.com/ga/dallas/c-a-roberts-elementary-pta/join/register",
