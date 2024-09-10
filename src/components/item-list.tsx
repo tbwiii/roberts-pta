@@ -21,11 +21,6 @@ interface Link {
 
 const links: Link[] = [
   {
-    name: "Raffle Baskets",
-    url: "https://roberts.givebacks.com/store?limit=21&live=true&category=Raffle%20Baskets",
-    icon: <IconBasket size={24} />,
-  },
-  {
     name: "Join the PTA",
     url: "https://jointotem.com/ga/dallas/c-a-roberts-elementary-pta/join/register",
     icon: <IconUsersGroup size={24} />,
@@ -60,15 +55,28 @@ const links: Link[] = [
 const ItemList = () => {
   return (
     <ul className="max-w-lg mx-auto grid gap-6 mb-6 w-full">
-      <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
-        <ShimmerButton
-          className="shadow-2xl"
-          href="https://roberts.givebacks.com/store/items/1082764"
-        >
-          <IconTicket size={24} />
-          Buy Dance Tickets
-        </ShimmerButton>
-      </BlurFade>
+      <li>
+        <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
+          <ShimmerButton
+            className="shadow-2xl"
+            href="https://roberts.givebacks.com/store/items/1082764"
+          >
+            <IconTicket size={24} />
+            Buy Dance Tickets
+          </ShimmerButton>
+        </BlurFade>
+      </li>
+      <li>
+        <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
+          <ShimmerButton
+            className="shadow-2xl"
+            href="https://roberts.givebacks.com/store?limit=21&live=true&category=Raffle%20Baskets"
+          >
+            <IconBasket size={24} />
+            "Raffle Baskets"
+          </ShimmerButton>
+        </BlurFade>
+      </li>
       {links.map((link: Link, index: number) => (
         <BlurFade
           key={index}
