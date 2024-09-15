@@ -55,7 +55,7 @@ const links: Link[] = [
 const ItemList = () => {
   return (
     <ul className="max-w-lg mx-auto grid gap-6 mb-6 w-full">
-      <li>
+      {/* <li>
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
@@ -65,18 +65,7 @@ const ItemList = () => {
             Buy Dance Tickets
           </ShimmerButton>
         </BlurFade>
-      </li>
-      <li>
-        <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
-          <ShimmerButton
-            className="shadow-2xl"
-            href="https://roberts.givebacks.com/store?limit=21&live=true&category=Raffle%20Baskets"
-          >
-            <IconBasket size={24} />
-            "Raffle Baskets"
-          </ShimmerButton>
-        </BlurFade>
-      </li>
+      </li> */}
       {links.map((link: Link, index: number) => (
         <BlurFade
           key={index}
