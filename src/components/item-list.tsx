@@ -9,7 +9,6 @@ import {
   IconShirtFilled,
   IconHeartHandshake,
   IconInfoSquareRoundedFilled,
-  IconTicket,
   IconBasket,
 } from "@tabler/icons-react";
 
