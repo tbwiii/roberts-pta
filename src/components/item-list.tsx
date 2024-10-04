@@ -9,7 +9,7 @@ import {
   IconShirtFilled,
   IconHeartHandshake,
   IconInfoSquareRoundedFilled,
-  IconBasket,
+  IconClipboardHeart,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -58,10 +58,10 @@ const ItemList = () => {
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
-            href="https://roberts.givebacks.com/store?limit=21&live=true&category=Raffle%20Baskets"
+            href="https://my.raisecraze.com/A128WB8"
           >
-            <IconBasket size={24} />
-            "Raffle Baskets"
+            <IconClipboardHeart size={24} />
+            Raise Craze
           </ShimmerButton>
         </BlurFade>
       </li>
