@@ -4,12 +4,13 @@ import BlurFade from "./magicui/blur-fade";
 import ShimmerButton from "./magicui/shimmer-button";
 import {
   IconUsersGroup,
+  IconBuildingStore,
+  IconCookieManFilled,
   IconClipboard,
   IconRocket,
   IconShirtFilled,
   IconHeartHandshake,
   IconInfoSquareRoundedFilled,
-  IconClipboardHeart,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -58,10 +59,21 @@ const ItemList = () => {
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
-            href="https://my.raisecraze.com/A128WB8"
+            href="https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-52293212-roberts#/"
           >
-            <IconClipboardHeart size={24} />
-            Raise Craze
+            <IconBuildingStore size={24} />
+            Holiday Shop Volunteers
+          </ShimmerButton>
+        </BlurFade>
+      </li>
+      <li>
+        <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
+          <ShimmerButton
+            className="shadow-2xl"
+            href="https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-52474439-cookies#/"
+          >
+            <IconCookieManFilled size={24} />
+            Cookies With Santa Volunteers
           </ShimmerButton>
         </BlurFade>
       </li>
