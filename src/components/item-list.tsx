@@ -1,11 +1,9 @@
 import { ReactNode } from "react";
 import Item from "./item";
 import BlurFade from "./magicui/blur-fade";
-import ShimmerButton from "./magicui/shimmer-button";
+// import ShimmerButton from "./magicui/shimmer-button";
 import {
   IconUsersGroup,
-  IconBuildingStore,
-  IconCookieManFilled,
   IconClipboard,
   IconRocket,
   IconShirtFilled,
@@ -55,7 +53,7 @@ const links: Link[] = [
 const ItemList = () => {
   return (
     <ul className="max-w-lg mx-auto grid gap-6 mb-6 w-full">
-      <li>
+      {/* <li>
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
@@ -65,18 +63,7 @@ const ItemList = () => {
             Holiday Shop Volunteers
           </ShimmerButton>
         </BlurFade>
-      </li>
-      <li>
-        <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
-          <ShimmerButton
-            className="shadow-2xl"
-            href="https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-52474439-cookies#/"
-          >
-            <IconCookieManFilled size={24} />
-            Cookies With Santa Volunteers
-          </ShimmerButton>
-        </BlurFade>
-      </li>
+      </li> */}
       {links.map((link: Link, index: number) => (
         <BlurFade
           key={index}
