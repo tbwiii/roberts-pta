@@ -58,7 +58,7 @@ const ItemList = () => {
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
-            href="https://roberts.givebacks.com/products/1159162"
+            href="https://roberts.givebacks.com/store?limit=21&live=true&category=Valentine's%20Day%20Grams"
           >
             <IconHearts size={24} />
             VALENTINES GRAMS
