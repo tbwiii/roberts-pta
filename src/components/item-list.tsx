@@ -1,14 +1,14 @@
 import { ReactNode } from "react";
 import Item from "./item";
 import BlurFade from "./magicui/blur-fade";
-import ShimmerButton from "./magicui/shimmer-button";
+// import ShimmerButton from "./magicui/shimmer-button";
 import {
   IconUsersGroup,
   IconClipboard,
   IconRocket,
   IconShirtFilled,
   IconHeartHandshake,
-  IconHearts,
+  // IconHearts,
   IconInfoSquareRoundedFilled,
 } from "@tabler/icons-react";
 
@@ -20,6 +20,11 @@ interface Link {
 
 const links: Link[] = [
   {
+    name: "Spirit Nights",
+    url: "https://ryanashleyw.my.canva.site/roberts-spirit-nights",
+    icon: <IconRocket size={24} />,
+  },
+  {
     name: "Join the PTA",
     url: "https://jointotem.com/ga/dallas/c-a-roberts-elementary-pta/join/register",
     icon: <IconUsersGroup size={24} />,
@@ -28,11 +33,6 @@ const links: Link[] = [
     name: "Spirit Wear",
     url: "https://roberts.givebacks.com/store?limit=21&live=true&category=Spirit%20Wear",
     icon: <IconShirtFilled size={24} />,
-  },
-  {
-    name: "Spirit Nights",
-    url: "https://ryanashleyw.my.canva.site/roberts-spirit-nights",
-    icon: <IconRocket size={24} />,
   },
   {
     name: "Volunteer",
@@ -54,7 +54,7 @@ const links: Link[] = [
 const ItemList = () => {
   return (
     <ul className="max-w-lg mx-auto grid gap-6 mb-6 w-full">
-      <li>
+      {/* <li>
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
@@ -64,7 +64,7 @@ const ItemList = () => {
             VALENTINES GRAMS
           </ShimmerButton>
         </BlurFade>
-      </li>
+      </li> */}
       {links.map((link: Link, index: number) => (
         <BlurFade
           key={index}
