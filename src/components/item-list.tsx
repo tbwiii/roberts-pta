@@ -19,11 +19,11 @@ interface Link {
 }
 
 const links: Link[] = [
-  {
-    name: "Spirit Nights",
-    url: "https://ryanashleyw.my.canva.site/roberts-spirit-nights",
-    icon: <IconRocket size={24} />,
-  },
+  // {
+  //   name: "Spirit Nights",
+  //   url: "https://ryanashleyw.my.canva.site/roberts-spirit-nights",
+  //   icon: <IconRocket size={24} />,
+  // },
   {
     name: "Join the PTA",
     url: "https://jointotem.com/ga/dallas/c-a-roberts-elementary-pta/join/register",
@@ -40,13 +40,8 @@ const links: Link[] = [
     icon: <IconClipboard size={24} />,
   },
   {
-    name: "Teacher Grant Requests",
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSequC9TlZ9t_OOtEoaabCvcv8RV8lMOKtk-zilm0KELqg8l-A/viewform?usp=sf_link",
-    icon: <IconInfoSquareRoundedFilled size={24} />,
-  },
-  {
     name: "Sponsorships & Donations",
-    url: "https://roberts.givebacks.com/store?limit=21&live=true&category=Donations",
+    url: "https://roberts.givebacks.com/shop?category=18382",
     icon: <IconHeartHandshake size={24} />,
   },
 ];
