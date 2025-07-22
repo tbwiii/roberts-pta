@@ -4,6 +4,7 @@ import BlurFade from "./magicui/blur-fade";
 // import ShimmerButton from "./magicui/shimmer-button";
 import {
   IconUsersGroup,
+  IconCalendar,
   IconClipboard,
   // IconRocket,
   IconShirtFilled,
@@ -24,6 +25,11 @@ const links: Link[] = [
   //   url: "https://ryanashleyw.my.canva.site/roberts-spirit-nights",
   //   icon: <IconRocket size={24} />,
   // },
+  {
+    name: "Upcoming Events",
+    url: "https://ryanashleyw.my.canva.site/upcoming-events",
+    icon: <IconCalendar size={24} />,
+  },
   {
     name: "Join the PTA",
     url: "https://jointotem.com/ga/dallas/c-a-roberts-elementary-pta/join/register",
