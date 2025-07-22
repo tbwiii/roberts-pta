@@ -5,11 +5,11 @@ import BlurFade from "./magicui/blur-fade";
 import {
   IconUsersGroup,
   IconClipboard,
-  IconRocket,
+  // IconRocket,
   IconShirtFilled,
   IconHeartHandshake,
   // IconHearts,
-  IconInfoSquareRoundedFilled,
+  // IconInfoSquareRoundedFilled,
 } from "@tabler/icons-react";
 
 interface Link {
