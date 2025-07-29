@@ -9,7 +9,7 @@ import {
   // IconRocket,
   IconShirtFilled,
   IconHeartHandshake,
-  // IconHearts,
+  IconHearts,
   // IconInfoSquareRoundedFilled,
 } from "@tabler/icons-react";
 
@@ -49,6 +49,11 @@ const links: Link[] = [
     name: "Sponsorships & Donations",
     url: "https://roberts.givebacks.com/shop?category=18382",
     icon: <IconHeartHandshake size={24} />,
+  },
+  {
+    name: "Staff Favorite Things",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSc247UoCztzO26dfOyM3X1IamlyUFvIENOmGdBNpcTJ01HlQw/viewform",
+    icon: <IconHearts size={24} />,
   },
 ];
 
