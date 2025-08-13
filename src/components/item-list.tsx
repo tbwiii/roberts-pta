@@ -1,16 +1,17 @@
 import { ReactNode } from "react";
 import Item from "./item";
 import BlurFade from "./magicui/blur-fade";
-// import ShimmerButton from "./magicui/shimmer-button";
+import ShimmerButton from "./magicui/shimmer-button";
 import {
   IconUsersGroup,
   IconCalendar,
-  IconClipboard,
   // IconRocket,
   IconShirtFilled,
   IconHeartHandshake,
   IconHearts,
+  IconClipboard,
   // IconInfoSquareRoundedFilled,
+  IconMusic,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -20,11 +21,11 @@ interface Link {
 }
 
 const links: Link[] = [
-  // {
-  //   name: "Spirit Nights",
-  //   url: "https://ryanashleyw.my.canva.site/roberts-spirit-nights",
-  //   icon: <IconRocket size={24} />,
-  // },
+  {
+    name: "Volunteer",
+    url: "https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-57654817-back",
+    icon: <IconClipboard size={24} />,
+  },
   {
     name: "Upcoming Events",
     url: "https://ryanashleyw.my.canva.site/upcoming-events",
@@ -41,11 +42,6 @@ const links: Link[] = [
     icon: <IconShirtFilled size={24} />,
   },
   {
-    name: "Volunteer",
-    url: "https://forms.gle/gi3NQf2qR4WFXBUo9",
-    icon: <IconClipboard size={24} />,
-  },
-  {
     name: "Sponsorships & Donations",
     url: "https://roberts.givebacks.com/shop?category=18382",
     icon: <IconHeartHandshake size={24} />,
@@ -60,17 +56,17 @@ const links: Link[] = [
 const ItemList = () => {
   return (
     <ul className="max-w-lg mx-auto grid gap-6 mb-6 w-full">
-      {/* <li>
+      <li>
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
-            href="https://roberts.givebacks.com/store?limit=21&live=true&category=Valentine's%20Day%20Grams"
+            href="https://roberts.givebacks.com/shop"
           >
-            <IconHearts size={24} />
-            VALENTINES GRAMS
+            <IconMusic size={24} />
+            Dance Tickets
           </ShimmerButton>
         </BlurFade>
-      </li> */}
+      </li>
       {links.map((link: Link, index: number) => (
         <BlurFade
           key={index}
