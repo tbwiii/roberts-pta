@@ -22,7 +22,7 @@ interface Link {
 
 const links: Link[] = [
   {
-    name: "Volunteer",
+    name: "Dance Volunteer Signup",
     url: "https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-57654817-back",
     icon: <IconClipboard size={24} />,
   },
