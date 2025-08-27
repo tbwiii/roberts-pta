@@ -1,7 +1,7 @@
 import { ReactNode } from "react";
 import Item from "./item";
 import BlurFade from "./magicui/blur-fade";
-import ShimmerButton from "./magicui/shimmer-button";
+// import ShimmerButton from "./magicui/shimmer-button";
 import {
   IconUsersGroup,
   IconCalendar,
@@ -11,7 +11,7 @@ import {
   IconHearts,
   IconClipboard,
   // IconInfoSquareRoundedFilled,
-  IconMusic,
+  // IconMusic,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -22,8 +22,8 @@ interface Link {
 
 const links: Link[] = [
   {
-    name: "Dance Volunteer Signup",
-    url: "https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-57654817-back",
+    name: "Volunteer Signup",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSeHZtwFzAcanaq3lEqVg8ic00kFt9ZAPJWNMvRyic4SR_kDgA/viewform?usp=header",
     icon: <IconClipboard size={24} />,
   },
   {
@@ -56,7 +56,7 @@ const links: Link[] = [
 const ItemList = () => {
   return (
     <ul className="max-w-lg mx-auto grid gap-6 mb-6 w-full">
-      <li>
+      {/* <li>
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
@@ -66,7 +66,7 @@ const ItemList = () => {
             Dance Tickets
           </ShimmerButton>
         </BlurFade>
-      </li>
+      </li> */}
       {links.map((link: Link, index: number) => (
         <BlurFade
           key={index}
