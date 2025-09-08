@@ -1,7 +1,7 @@
 import { ReactNode } from "react";
 import Item from "./item";
 import BlurFade from "./magicui/blur-fade";
-// import ShimmerButton from "./magicui/shimmer-button";
+import ShimmerButton from "./magicui/shimmer-button";
 import {
   IconUsersGroup,
   IconCalendar,
@@ -12,6 +12,7 @@ import {
   IconClipboard,
   // IconInfoSquareRoundedFilled,
   // IconMusic,
+  IconLeaf2,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -56,17 +57,17 @@ const links: Link[] = [
 const ItemList = () => {
   return (
     <ul className="max-w-lg mx-auto grid gap-6 mb-6 w-full">
-      {/* <li>
+      <li>
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
-            href="https://roberts.givebacks.com/shop"
+            href="https://ryanashleyw.my.canva.site/roberts-raffle-basket-donation-wishlists"
           >
-            <IconMusic size={24} />
-            Dance Tickets
+            <IconLeaf2 size={24} />
+            Fall Festival Donations
           </ShimmerButton>
         </BlurFade>
-      </li> */}
+      </li>
       {links.map((link: Link, index: number) => (
         <BlurFade
           key={index}
