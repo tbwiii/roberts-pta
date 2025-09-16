@@ -24,7 +24,7 @@ interface Link {
 const links: Link[] = [
   {
     name: "Volunteer Signup",
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSeHZtwFzAcanaq3lEqVg8ic00kFt9ZAPJWNMvRyic4SR_kDgA/viewform?usp=header",
+    url: "https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-58684638-fall#/",
     icon: <IconClipboard size={24} />,
   },
   {
@@ -64,7 +64,7 @@ const ItemList = () => {
             href="https://ryanashleyw.my.canva.site/roberts-raffle-basket-donation-wishlists"
           >
             <IconLeaf2 size={24} />
-            Fall Festival Donations
+            Fall Festival
           </ShimmerButton>
         </BlurFade>
       </li>
