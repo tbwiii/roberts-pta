@@ -12,7 +12,8 @@ import {
   IconClipboard,
   // IconInfoSquareRoundedFilled,
   // IconMusic,
-  IconLeaf2,
+  IconGiftFilled,
+  // IconLeaf2,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -24,7 +25,7 @@ interface Link {
 const links: Link[] = [
   {
     name: "Volunteer Signup",
-    url: "https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-58684638-fall#/",
+    url: " https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-59178340-2025#/",
     icon: <IconClipboard size={24} />,
   },
   {
@@ -61,10 +62,10 @@ const ItemList = () => {
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
-            href="https://ryanashleyw.my.canva.site/roberts-raffle-basket-donation-wishlists"
+            href="https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-58420639-kindergarten"
           >
-            <IconLeaf2 size={24} />
-            Fall Festival
+            <IconGiftFilled size={24} />
+            Raffle Basket Donations
           </ShimmerButton>
         </BlurFade>
       </li>
