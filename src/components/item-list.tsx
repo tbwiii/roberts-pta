@@ -62,10 +62,10 @@ const ItemList = () => {
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
-            href="https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-58420639-kindergarten"
+            href="https://roberts.givebacks.com/shop?category=319936"
           >
             <IconGiftFilled size={24} />
-            Raffle Basket Donations
+            Raffle Tickets
           </ShimmerButton>
         </BlurFade>
       </li>
