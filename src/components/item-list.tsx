@@ -12,8 +12,9 @@ import {
   IconClipboard,
   // IconInfoSquareRoundedFilled,
   // IconMusic,
-  IconGiftFilled,
+  // IconGiftFilled,
   // IconLeaf2,
+  IconTicket,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -64,7 +65,7 @@ const ItemList = () => {
             className="shadow-2xl"
             href="https://roberts.givebacks.com/shop?category=319936"
           >
-            <IconGiftFilled size={24} />
+            <IconTicket size={24} />
             Raffle Tickets
           </ShimmerButton>
         </BlurFade>
