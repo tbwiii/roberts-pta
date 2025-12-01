@@ -51,7 +51,7 @@ const links: Link[] = [
   },
   {
     name: "Staff Favorite Things",
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSc247UoCztzO26dfOyM3X1IamlyUFvIENOmGdBNpcTJ01HlQw/viewform",
+    url: "https://docs.google.com/spreadsheets/d/19K9Up1PPd7JNx4KElfIJ3UyNqCtGmI91fiasncCg4eI/edit?usp=sharing",
     icon: <IconHearts size={24} />,
   },
 ];
