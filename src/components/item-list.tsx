@@ -5,6 +5,7 @@ import ShimmerButton from "./magicui/shimmer-button";
 import {
   IconUsersGroup,
   IconCalendar,
+  IconDog,
   // IconRocket,
   IconShirtFilled,
   IconHeartHandshake,
@@ -14,7 +15,7 @@ import {
   // IconMusic,
   // IconGiftFilled,
   // IconLeaf2,
-  IconTicket,
+  // IconTicket,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -24,6 +25,11 @@ interface Link {
 }
 
 const links: Link[] = [
+  {
+    name: "Staff Favorite Things",
+    url: "https://docs.google.com/spreadsheets/d/19K9Up1PPd7JNx4KElfIJ3UyNqCtGmI91fiasncCg4eI/edit?usp=sharing",
+    icon: <IconHearts size={24} />,
+  },
   {
     name: "Volunteer Signup",
     url: " https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-59178340-2025#/",
@@ -49,11 +55,6 @@ const links: Link[] = [
     url: "https://roberts.givebacks.com/shop?category=18382",
     icon: <IconHeartHandshake size={24} />,
   },
-  {
-    name: "Staff Favorite Things",
-    url: "https://docs.google.com/spreadsheets/d/19K9Up1PPd7JNx4KElfIJ3UyNqCtGmI91fiasncCg4eI/edit?usp=sharing",
-    icon: <IconHearts size={24} />,
-  },
 ];
 
 const ItemList = () => {
@@ -63,10 +64,10 @@ const ItemList = () => {
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
-            href="https://roberts.givebacks.com/shop?category=319936"
+            href="https://roberts.givebacks.com/shop?category=617945fb-35d7-4490-8aaf-f664f39b5fd3"
           >
-            <IconTicket size={24} />
-            Raffle Tickets
+            <IconDog size={24} />
+            Bingo Night
           </ShimmerButton>
         </BlurFade>
       </li>
