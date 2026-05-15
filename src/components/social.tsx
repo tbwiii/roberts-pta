@@ -3,7 +3,7 @@ import { IconMail, IconBrandFacebookFilled } from "@tabler/icons-react";
 
 const links = [
   {
-    url: "https://www.facebook.com/RobertsElementaryPTA",
+    url: "https://www.facebook.com/carobertspta/",
     icon: (
       <IconBrandFacebookFilled
         size={24}

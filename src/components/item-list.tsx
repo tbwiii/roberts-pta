@@ -4,18 +4,10 @@ import BlurFade from "./magicui/blur-fade";
 import ShimmerButton from "./magicui/shimmer-button";
 import {
   IconUsersGroup,
-  IconCalendar,
-  IconDog,
-  // IconRocket,
   IconShirtFilled,
   IconHeartHandshake,
   IconHearts,
-  IconClipboard,
-  // IconInfoSquareRoundedFilled,
-  // IconMusic,
-  // IconGiftFilled,
-  // IconLeaf2,
-  // IconTicket,
+  IconBackpack,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -29,16 +21,6 @@ const links: Link[] = [
     name: "Staff Favorite Things",
     url: "https://docs.google.com/spreadsheets/d/19K9Up1PPd7JNx4KElfIJ3UyNqCtGmI91fiasncCg4eI/edit?usp=sharing",
     icon: <IconHearts size={24} />,
-  },
-  {
-    name: "Volunteer Signup",
-    url: " https://www.signupgenius.com/go/10C0A4CA4AA2AA1FFC07-59178340-2025#/",
-    icon: <IconClipboard size={24} />,
-  },
-  {
-    name: "Upcoming Events",
-    url: "https://ryanashleyw.my.canva.site/upcoming-events",
-    icon: <IconCalendar size={24} />,
   },
   {
     name: "Join the PTA",
@@ -64,13 +46,23 @@ const ItemList = () => {
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
-            href="https://roberts.givebacks.com/shop?category=617945fb-35d7-4490-8aaf-f664f39b5fd3"
+            href="https://1stdayschoolsupplies.com/gs/27082"
           >
-            <IconDog size={24} />
-            Bingo Night
+            <IconBackpack size={24} />
+            1st Day School Supplies
           </ShimmerButton>
         </BlurFade>
       </li>
+      {/* <li>
+        <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
+          <ShimmerButton
+            className="shadow-2xl"
+            href="https://roberts.givebacks.com/shop?category=617945fb-35d7-4490-8aaf-f664f39b5fd3"
+          >
+            Bingo Night
+          </ShimmerButton>
+        </BlurFade>
+      </li> */}
       {links.map((link: Link, index: number) => (
         <BlurFade
           key={index}
