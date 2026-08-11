@@ -8,6 +8,7 @@ import {
   IconHeartHandshake,
   IconHearts,
   IconClipboardList,
+  IconCalendarEvent,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -17,6 +18,11 @@ interface Link {
 }
 
 const links: Link[] = [
+  {
+    name: "Upcoming Events",
+    url: "https://drive.google.com/file/d/1vOLPFBTOusWi8hZV7faUPKuxGGOSCfEa/preview",
+    icon: <IconCalendarEvent size={24} />,
+  },
   {
     name: "Staff: Favorite Things Survey",
     url: "https://docs.google.com/forms/d/e/1FAIpQLSc247UoCztzO26dfOyM3X1IamlyUFvIENOmGdBNpcTJ01HlQw/viewform?usp=sharing&ouid=113551781995939037739",
