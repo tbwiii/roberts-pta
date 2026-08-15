@@ -9,6 +9,7 @@ import {
   IconHearts,
   IconClipboardList,
   IconCalendarEvent,
+  IconSparkles,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -18,6 +19,11 @@ interface Link {
 }
 
 const links: Link[] = [
+  {
+    name: "Join the PTA",
+    url: "https://jointotem.com/ga/dallas/c-a-roberts-elementary-pta/join/register",
+    icon: <IconUsersGroup size={24} />,
+  },
   {
     name: "Upcoming Events",
     url: "https://drive.google.com/file/d/1vOLPFBTOusWi8hZV7faUPKuxGGOSCfEa/preview",
@@ -52,23 +58,13 @@ const ItemList = () => {
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
-            href="https://jointotem.com/ga/dallas/c-a-roberts-elementary-pta/join/register"
+            href="https://roberts.givebacks.com/shop/items/38b9c996e4cd"
           >
-            <IconUsersGroup size={24} />
-            Join the PTA
+            <IconSparkles size={24} />
+            GLOW DANCE TICKETS
           </ShimmerButton>
         </BlurFade>
       </li>
-      {/* <li>
-        <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
-          <ShimmerButton
-            className="shadow-2xl"
-            href="https://roberts.givebacks.com/shop?category=617945fb-35d7-4490-8aaf-f664f39b5fd3"
-          >
-            Bingo Night
-          </ShimmerButton>
-        </BlurFade>
-      </li> */}
       {links.map((link: Link, index: number) => (
         <BlurFade
           key={index}
