@@ -9,7 +9,7 @@ import {
   IconHearts,
   IconClipboardList,
   IconCalendarEvent,
-  IconSparkles,
+  IconCircleDotFilled,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -58,10 +58,10 @@ const ItemList = () => {
         <BlurFade xOffset={-10} duration={0.35} delay={8 * 0.1}>
           <ShimmerButton
             className="shadow-2xl"
-            href="https://roberts.givebacks.com/shop/items/38b9c996e4cd"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSc93J_HDJV43ehCvbhwkjDRiyJeG0jNnKVM1DZI6jMymRGMXw/viewform"
           >
-            <IconSparkles size={24} />
-            GLOW DANCE TICKETS
+            <IconCircleDotFilled size={24} />
+            DONUTS WITH GROWN-UPS
           </ShimmerButton>
         </BlurFade>
       </li>
