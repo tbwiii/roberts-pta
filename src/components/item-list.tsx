@@ -1,7 +1,7 @@
 import { ReactNode } from "react";
 import Item from "./item";
 import BlurFade from "./magicui/blur-fade";
-import ShimmerButton from "./magicui/shimmer-button";
+// import ShimmerButton from "./magicui/shimmer-button";
 import {
   IconUsersGroup,
   IconShirtFilled,
@@ -9,7 +9,7 @@ import {
   IconHearts,
   IconClipboardList,
   IconCalendarEvent,
-  IconCircleDotFilled,
+  // IconCircleDotFilled,
 } from "@tabler/icons-react";
 
 interface Link {
