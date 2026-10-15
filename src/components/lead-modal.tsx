@@ -111,8 +111,8 @@ export default function LeadModal({
                 Need an app or website?
               </h2>
               <p className="mt-1 text-roberts_blue-100">
-                I built and maintain this site. Leave your details and I'll
-                reach out.
+                Tell me a bit about what you're building and I'll get back to
+                you within a day or two.
               </p>
             </div>
 
@@ -174,10 +174,21 @@ export default function LeadModal({
               disabled={status === "sending"}
               className="rounded-full bg-[#ffc94a] px-5 py-3 font-bold text-roberts_blue-900 outline-none transition-opacity hover:opacity-90 focus-visible:ring-4 focus-visible:ring-roberts_blue-50 disabled:opacity-60"
             >
-              {status === "sending" ? "Sending…" : "Get in touch"}
+              {status === "sending" ? "Sending…" : "Let's talk"}
             </button>
             <p className="text-center text-xs text-roberts_blue-200">
-              Only used to contact you about your website.
+              Only used to reply to you. No spam.
+            </p>
+            <p className="text-center text-sm text-roberts_blue-100">
+              Check me out at{" "}
+              <a
+                href="https://ted.codes"
+                target="_blank"
+                rel="noreferrer"
+                className="font-semibold underline outline-none focus-visible:ring-4 focus-visible:ring-[#ffc94a]"
+              >
+                ted.codes
+              </a>
             </p>
           </form>
         )}
