@@ -7,7 +7,8 @@ module.exports = {
   prefix: "",
   theme: {
     fontFamily: {
-      roberts: ["Russo One", "sans-serif"],
+      roberts: ["Figtree", "system-ui", "sans-serif"],
+      display: ["Bagel Fat One", "Figtree", "system-ui", "sans-serif"],
     },
     container: {
       center: true,
