@@ -118,75 +118,31 @@
   }
 }
 
-@keyframes float {
-	0% {
-		transform: translateY(-8px);
-	}
-
-	100% {
-		transform: translateY(0);
-	}
+html,
+body {
+  background: #0a1931;
+  color: #f6f8ff;
+  -webkit-text-size-adjust: 100%;
 }
 
-@keyframes wiggle {
-	0% {
-		transform: rotate(70deg);
-	}
-
-  100% {
-		transform: rotate(65deg);
-	}
-
+/* CSS-driven loops; entrances are handled by framer-motion */
+@keyframes flame {
+  0% { transform: rotate(-5deg) translateY(-4px) scale(1); }
+  100% { transform: rotate(5deg) translateY(5px) scale(1.08); }
+}
+@keyframes pop {
+  0% { transform: scale(0.85); }
+  60% { transform: scale(1.08); }
+  100% { transform: scale(1); }
 }
 
-/* @keyframes flame {
-	0% {
-		transform: rotate(-5deg) translateY(-10px) scale(1);
-	}
+.animate-flame { animation: flame 0.18s ease-in-out infinite alternate; }
+.copied-pop { animation: pop 0.3s ease-out; }
 
-  100% {
-		transform: rotate(5deg) translateY(10px) scale(1.1);
-	}
-
-}
-
-.animate-float {
-  animation: float 4s ease-in-out infinite;
-}
-
-.animate-wiggle {
-  animation: wiggle 2s ease-in-out infinite alternate;
-}
-
-.animate-flame {
-  animation: flame .3s ease-in-out infinite alternate;
-}
- */
-
-
- @keyframes flame {
-	0% {
-		transform: rotate(-5deg) translateY(-6px) scale(1);
-	}
-
-  100% {
-		transform: rotate(5deg) translateY(6px) scale(1.1);
-	}
-
-}
-
-.animate-float {
-  animation: float 1s ease-in-out infinite alternate;
-  animation-iteration-count: 5
-}
-
-.animate-wiggle {
-  transform: rotate(70deg);
-  animation: wiggle .4s ease-in-out infinite alternate;
-  animation-iteration-count: 12
-}
-
-.animate-flame {
-  animation: flame .18s ease-in-out infinite alternate;
-  animation-iteration-count: 19
+@media (prefers-reduced-motion: reduce) {
+  .animate-flame,
+  .copied-pop {
+    animation: none !important;
+  }
+  * { transition-duration: 0.01ms !important; }
 }
