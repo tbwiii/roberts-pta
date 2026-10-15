@@ -108,7 +108,7 @@ export default function LeadModal({
           <form onSubmit={handleSubmit} className="flex flex-col gap-4">
             <div>
               <h2 id="lead-modal-title" className="font-display text-3xl">
-                Need a website?
+                Need an app or website?
               </h2>
               <p className="mt-1 text-roberts_blue-100">
                 I built and maintain this site. Leave your details and I'll
