@@ -62,9 +62,6 @@ export default function Social() {
         <IconCode size={22} />
         Need a website?
       </motion.button>
-      <p className="basis-full text-sm text-roberts_blue-200">
-        Built and maintained for free by Ted.
-      </p>
       <LeadModal open={leadOpen} onClose={() => setLeadOpen(false)} />
     </footer>
   );
