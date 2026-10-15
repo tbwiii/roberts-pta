@@ -11,7 +11,9 @@
 // After editing this script, use Deploy -> Manage deployments -> Edit ->
 // New version, otherwise the live URL keeps running the old code.
 
-var NOTIFY_EMAIL = "ted.waller.iii@gmail.com";
+// Notifications go to the account the script runs as ("Execute as: Me"), so
+// no address needs to live in this public repo.
+var NOTIFY_EMAIL = Session.getEffectiveUser().getEmail();
 
 function doPost(e) {
   var data = JSON.parse(e.postData.contents);

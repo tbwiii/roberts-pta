@@ -2,7 +2,6 @@ import { useEffect, useRef, useState, type FormEvent } from "react";
 import { IconX } from "@tabler/icons-react";
 
 const LEADS_URL = import.meta.env.VITE_LEADS_URL as string | undefined;
-const FALLBACK_EMAIL = "ted.waller.iii@gmail.com";
 
 type Status = "idle" | "sending" | "sent" | "error";
 
@@ -161,11 +160,8 @@ export default function LeadModal({
 
             {status === "error" && (
               <p role="alert" className="text-sm text-roberts_red-200">
-                Something went wrong. Please email{" "}
-                <a className="underline" href={`mailto:${FALLBACK_EMAIL}`}>
-                  {FALLBACK_EMAIL}
-                </a>{" "}
-                instead.
+                Something went wrong sending that. Please try again in a
+                moment.
               </p>
             )}
 
