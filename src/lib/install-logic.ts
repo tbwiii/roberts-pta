@@ -60,13 +60,37 @@ export function isIOS(userAgent: string, maxTouchPoints: number): boolean {
   return /iPhone|iPad|iPod/.test(userAgent) || (/Macintosh/.test(userAgent) && maxTouchPoints > 1);
 }
 
+const IN_APP = /FBAN|FBAV|FB_IAB|Instagram|Line\/|Twitter|Snapchat|LinkedInApp|MicroMessenger|Pinterest|TikTok|musical_ly/;
+
+// Webviews inside other apps (Facebook, Instagram...) cannot add a site to the home screen or fire the
+// install event. iOS webviews drop the "Safari/" token every real iOS browser keeps; Android ones say "; wv)".
+export function isInAppBrowser(userAgent: string, ios: boolean): boolean {
+  if (IN_APP.test(userAgent)) return true;
+  return ios ? !/Safari\//.test(userAgent) : /; wv\)/.test(userAgent);
+}
+
+export type Hint =
+  | { kind: "install" } // Chrome handed us an install event: show a real Install button
+  | { kind: "share" } // iOS has no install API: point at Share > Add to Home Screen
+  | { kind: "open-in"; browser: "Safari" | "Chrome" }; // in-app browser: send them somewhere that can install
+
+export function pickHint(env: { userAgent: string; maxTouchPoints: number; canPrompt: boolean }): Hint | null {
+  const ios = isIOS(env.userAgent, env.maxTouchPoints);
+  if (env.canPrompt) return { kind: "install" };
+  if (isInAppBrowser(env.userAgent, ios)) {
+    return /Android/.test(env.userAgent) || ios
+      ? { kind: "open-in", browser: ios ? "Safari" : "Chrome" }
+      : null;
+  }
+  return ios ? { kind: "share" } : null;
+}
+
 export function shouldShowBanner(s: {
   visits: number;
   dismissed: boolean;
   installed: boolean; // already running as an installed app
-  canPrompt: boolean; // Chrome/Android handed us a beforeinstallprompt event
-  ios: boolean; // iOS has no event, so we show the manual hint
+  hint: Hint | null;
 }): boolean {
   if (s.installed || s.dismissed || s.visits < MIN_VISITS) return false;
-  return s.canPrompt || s.ios;
+  return s.hint !== null;
 }
