@@ -3,6 +3,7 @@ import { TitleSection } from "./components/title-section";
 import ItemList from "./components/item-list";
 import Social from "./components/social";
 import Starfield from "./components/starfield";
+import InstallBanner from "./components/install-banner";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <ItemList />
         <Social />
       </main>
+      <InstallBanner />
     </div>
   );
 }
