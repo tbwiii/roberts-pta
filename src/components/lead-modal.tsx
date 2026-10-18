@@ -176,22 +176,14 @@ export default function LeadModal({
               Only used to reply to you. No spam.
             </p>
             <p className="text-center text-sm text-roberts_blue-100">
-              Check me out at{" "}
-              <a
-                href="https://pixelgambit.com"
-                target="_blank"
-                rel="noreferrer"
-                className="font-semibold underline outline-none focus-visible:ring-4 focus-visible:ring-[#ffc94a]"
-              >
-                Pixel Gambit
-              </a>
+              Check me out at
             </p>
             <a
               href="https://pixelgambit.com"
               target="_blank"
               rel="noreferrer"
               aria-label="Pixel Gambit"
-              className="mx-auto flex items-center gap-2.5 rounded-md px-2 py-1 font-pixel text-base font-semibold text-roberts_blue-0 outline-none hover:text-[#ffc94a] focus-visible:ring-4 focus-visible:ring-[#ffc94a]"
+              className="mx-auto -mt-3 flex items-center gap-2.5 rounded-md px-2 py-1 font-pixel text-base font-semibold text-roberts_blue-0 outline-none hover:text-[#ffc94a] focus-visible:ring-4 focus-visible:ring-[#ffc94a]"
             >
               <img
                 src="/pixel-gambit/king.png"
