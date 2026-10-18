@@ -1,6 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+  font-family: "Pixelify Sans Variable";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400 700;
+  src: url("/pixel-gambit/pixelify-sans.woff2") format("woff2-variations");
+}
 @layer base {
   :root {
     --roberts_blue-0: #dce4fe;
