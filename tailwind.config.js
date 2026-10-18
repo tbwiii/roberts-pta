@@ -8,6 +8,7 @@ module.exports = {
   theme: {
     fontFamily: {
       roberts: ["Figtree", "system-ui", "sans-serif"],
+      pixel: ["Pixelify Sans Variable", "ui-monospace", "monospace"],
       display: ["Bagel Fat One", "Figtree", "system-ui", "sans-serif"],
     },
     container: {

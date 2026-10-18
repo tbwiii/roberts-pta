@@ -186,6 +186,22 @@ export default function LeadModal({
                 Pixel Gambit
               </a>
             </p>
+            <a
+              href="https://pixelgambit.com"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Pixel Gambit"
+              className="mx-auto flex items-center gap-2.5 rounded-md px-2 py-1 font-pixel text-base font-semibold text-roberts_blue-0 outline-none hover:text-[#ffc94a] focus-visible:ring-4 focus-visible:ring-[#ffc94a]"
+            >
+              <img
+                src="/pixel-gambit/king.png"
+                alt=""
+                width={19}
+                height={32}
+                className="[image-rendering:pixelated]"
+              />
+              Pixel Gambit
+            </a>
           </form>
         )}
       </div>
