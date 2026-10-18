@@ -178,12 +178,12 @@ export default function LeadModal({
             <p className="text-center text-sm text-roberts_blue-100">
               Check me out at{" "}
               <a
-                href="https://ted.codes"
+                href="https://pixelgambit.com"
                 target="_blank"
                 rel="noreferrer"
                 className="font-semibold underline outline-none focus-visible:ring-4 focus-visible:ring-[#ffc94a]"
               >
-                ted.codes
+                Pixel Gambit
               </a>
             </p>
           </form>
