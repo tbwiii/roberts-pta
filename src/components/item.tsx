@@ -71,6 +71,8 @@ export default function Item({
   const [pressed, setPressed] = useState(false);
   const [particles, setParticles] = useState<Particle[]>([]);
   const t = tones[tone];
+  // Internal links are relative; copy the full address so it works when pasted.
+  const shareUrl = new URL(url, window.location.href).href;
   const reduce = useReducedMotion();
   const stub = useAnimationControls();
 
@@ -130,7 +132,7 @@ export default function Item({
 
   useEffect(() => {
     const clipboard = new ClipboardJS(copyButtonRef.current!, {
-      text: () => url,
+      text: () => shareUrl,
     });
     let timer: number | undefined;
     clipboard.on("success", (e: ClipboardJS.Event) => {
@@ -147,7 +149,7 @@ export default function Item({
       window.clearTimeout(timer);
       clipboard.destroy();
     };
-  }, [url]);
+  }, [shareUrl]);
 
   const delay = timeline.tickets + index * timeline.ticketStagger;
   const dir = index % 2 === 0 ? -1 : 1;
@@ -225,7 +227,7 @@ export default function Item({
           ref={copyButtonRef}
           type="button"
           aria-label={`Copy link to ${name}`}
-          data-clipboard-text={url}
+          data-clipboard-text={shareUrl}
           animate={stub}
           style={{ transformOrigin: "0% 0%" }}
           className={`flex w-14 shrink-0 flex-col items-center justify-center gap-0.5 rounded-r-2xl border-l-2 border-dashed border-roberts_blue-900/40 text-xs font-bold outline-none transition-colors focus-visible:ring-4 focus-visible:ring-inset focus-visible:ring-roberts_blue-900 ${
