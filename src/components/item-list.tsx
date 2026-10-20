@@ -40,10 +40,10 @@ const links: Link[] = [
     icon: <IconCalendarEvent size={26} />,
   },
   {
-    name: "Staff favorite things survey",
-    note: "For teachers and staff",
+    name: "Staff favorite things",
+    note: "Gift ideas for teachers and staff",
     tone: "white",
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSc247UoCztzO26dfOyM3X1IamlyUFvIENOmGdBNpcTJ01HlQw/viewform?usp=sharing&ouid=113551781995939037739",
+    url: "/#/favorites",
     icon: <IconHearts size={26} />,
   },
   {

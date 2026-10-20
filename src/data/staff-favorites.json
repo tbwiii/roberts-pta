@@ -1,0 +1,4702 @@
+[
+  {
+    "id": "kelsey-adams",
+    "firstName": "Kelsey",
+    "lastName": "Adams",
+    "role": "2nd grade teacher",
+    "birthday": "June 8",
+    "monogram": "KAJ",
+    "size": "M",
+    "allergies": "Shrimp!",
+    "pets": "Yes 12 chickens, 1 turkey, a white lab, and an orange cat.",
+    "enough": "Cups ;)",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Light pink"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "I love New Girl and The Hunger Games franchise"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Romance, fantasy, and mystery"
+      },
+      {
+        "label": "Candy",
+        "value": "Almond joys and Reese’s"
+      },
+      {
+        "label": "Gum",
+        "value": "Mint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Grape salad from Chicken Salad Chick"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Triscuits"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Mochi"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-fil-A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Long horns"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Anything!"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Caramel macchiato"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Alani and Diet Coke"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Braves!!!"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberries and bananas"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "I love Hobby Lobby and Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "I like scrapbooking, hanging out with friends and family and reading."
+      },
+      {
+        "label": "Scents",
+        "value": "Gardenia and vanilla"
+      }
+    ]
+  },
+  {
+    "id": "kathryn-airman",
+    "firstName": "Kathryn",
+    "lastName": "Airman",
+    "role": "school counselor",
+    "birthday": "July 20",
+    "monogram": "KA",
+    "size": "M",
+    "allergies": "mango",
+    "pets": "2 dogs",
+    "enough": "",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/25QCNFCF86SMR?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/25QCNFCF86SMR?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "purple pink bright colors"
+      },
+      {
+        "label": "Candy",
+        "value": "babe ruth’s, chocolate"
+      },
+      {
+        "label": "Gum",
+        "value": "peppermint and cinnamon"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "doubled stuffed oreos"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "popcorn, pistachios"
+      },
+      {
+        "label": "Fast Food",
+        "value": "moe’s chiptole"
+      },
+      {
+        "label": "Restaurant",
+        "value": "jim n nicks"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "matcha latte"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "florida state university"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "amazon target"
+      },
+      {
+        "label": "Scents",
+        "value": "vanilla"
+      }
+    ]
+  },
+  {
+    "id": "janel-akpuchukwu",
+    "firstName": "Janel",
+    "lastName": "Akpuchukwu",
+    "role": "Occupational Therapist",
+    "birthday": "May 4",
+    "monogram": "JOA",
+    "size": "M",
+    "allergies": "",
+    "pets": "",
+    "enough": "",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Emerald Green"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Silo"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Inspirational/Gospel"
+      },
+      {
+        "label": "Candy",
+        "value": "Airheads"
+      },
+      {
+        "label": "Gum",
+        "value": "Spearmint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Cinnamon rolls"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Doritos"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Praline or vanilla butter cake"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Zaxby’s/chick-fil-a"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Anything seafood"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Lillies"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Vanilla Mocha(hot)"
+      },
+      {
+        "label": "Fruit",
+        "value": "Blackberry"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Tennis/Traveling"
+      },
+      {
+        "label": "Scents",
+        "value": "Vanilla"
+      }
+    ]
+  },
+  {
+    "id": "robin-anderson",
+    "firstName": "Robin",
+    "lastName": "Anderson",
+    "role": "Kindergarten Para",
+    "birthday": "July 27",
+    "monogram": "ARA",
+    "size": "XL",
+    "allergies": "",
+    "pets": "",
+    "enough": "",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Blue"
+      },
+      {
+        "label": "Holiday",
+        "value": "Any, I enjoy them all!"
+      },
+      {
+        "label": "Candy",
+        "value": "Reece’s"
+      },
+      {
+        "label": "Gum",
+        "value": "Mint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Trail mix"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Chocolate"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chik fil a"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Longhorn"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Any"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "French vanilla or caramel"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Ga Bulldogs"
+      },
+      {
+        "label": "Fruit",
+        "value": "Apples"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Hobby Lobby, Target"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Cleaning, camping, cooking"
+      },
+      {
+        "label": "Scents",
+        "value": "Linen, or coffee"
+      }
+    ]
+  },
+  {
+    "id": "amy-autrey",
+    "firstName": "Amy",
+    "lastName": "Autrey",
+    "role": "Art teacher! K-5",
+    "birthday": "February 1",
+    "monogram": "AAM",
+    "size": "M",
+    "allergies": "Caffeine free",
+    "pets": "Yes, one weenie dog",
+    "enough": "Candy",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/ZSR7488YUFJ0?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/ZSR7488YUFJ0?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Rainbow! Glitter! If I HAD to pick one… purple."
+      },
+      {
+        "label": "Holiday",
+        "value": "Halloween and Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Midnight in Paris, Lord of the Rings, Harry Potter, The Office,"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Art historical fiction, crime mysteries, anything girl power"
+      },
+      {
+        "label": "Candy",
+        "value": "Reese’s outrageous"
+      },
+      {
+        "label": "Gum",
+        "value": "Spearmint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Banana and peanut butter"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Dots pretzels"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Chocolate ice cream or raspberry sorbet"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Raising Canes"
+      },
+      {
+        "label": "Restaurant",
+        "value": "San Salvador in Hiram"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Lavender, rosemary, Magnolia tree, Poppy Flower, Olive tree, wildflowers"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Regular coffee with a lil 2% milk and sugar"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Smart water, Fizzy waters, Caffeine-free coke"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "The Braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "Berries, Bananas, oranges"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Peloton, gardening, my son is teaching me to skateboard!"
+      },
+      {
+        "label": "Scents",
+        "value": "Christmas trees, lavender, the E.T. Ride at Universal Studios"
+      }
+    ]
+  },
+  {
+    "id": "lauren-barber",
+    "firstName": "Lauren",
+    "lastName": "Barber",
+    "role": "5th Grade - ELA Teacher",
+    "birthday": "October 4",
+    "monogram": "LBD",
+    "size": "L",
+    "allergies": "",
+    "pets": "1 dog, 1 cat, 4 chickens",
+    "enough": "",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/YHDZA7MSXU26?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/YHDZA7MSXU26?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Green! Earthy neutrals, metallics (gold)"
+      },
+      {
+        "label": "Holiday",
+        "value": "Thanksgiving or Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "mostly funny, lighthearted - more likely to read"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "ANY FICTION! classic literature, fantasy or dystopian, YA novels"
+      },
+      {
+        "label": "Candy",
+        "value": "Ferrero Rocher, Reese's, Albanese Gummy Worms, Trolli Sour Gummy Worms"
+      },
+      {
+        "label": "Gum",
+        "value": "Extra Spearmint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate, Fresh Fruit, Anything Birthday Cake flavor"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Honey Mustard Dots Pretzels, Salt & Vinegar Chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Mint Chocolate Chip, Moose Tracks, Rocky Road"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Starbucks"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Longhorn, Chicken Salad Chick, Taco T's"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Any house plants, any greenery, hydrangeas, dahlias"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "DECAF Iced Venti Hazlenut Oatmilk Shaken Espresso"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "BUBBL'R, different flavors of sparkling water, occasional Alani energy drinks"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "UGA, Braves, East Paulding Raiders (son-basketball, daughter-volleyball)"
+      },
+      {
+        "label": "Fruit",
+        "value": "ANY!"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon, Target, Marshall's, TJ Maxx"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, hanging out with my big family, trying new hobbies"
+      },
+      {
+        "label": "Scents",
+        "value": "Fruity or Beachy, essential oils (Floral or musky scents tend to give me migraines)"
+      }
+    ]
+  },
+  {
+    "id": "kim-bartek",
+    "firstName": "Kim",
+    "lastName": "Bartek",
+    "role": "IRR Teacher",
+    "birthday": "October 19",
+    "monogram": "KBE",
+    "size": "M",
+    "allergies": "blueberry",
+    "pets": "Dog named Foxie",
+    "enough": "",
+    "wishlist": "cute gnomes!",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "teal and lavendar"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "The Greatest Showman, Disney movies"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Drama, Christian"
+      },
+      {
+        "label": "Candy",
+        "value": "Caramel, Nerds clusters, Skor bars"
+      },
+      {
+        "label": "Gum",
+        "value": "no thank you"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "carrot cake, iced sugar cookies,"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "pistachios, Lays original"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "peach, strawberry, caramel"
+      },
+      {
+        "label": "Fast Food",
+        "value": "CFA, Zaxby's,"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse, Volcano, Mexican"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "hibiscus, gerberra daisies, any really"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "anything caramel, white chocolate mocha"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Bai Watermelon,"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Ohio State"
+      },
+      {
+        "label": "Fruit",
+        "value": "Pineapple, strawberries, grapes"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Home Goods, TJ Maxx,"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Singing, reading, coloring"
+      },
+      {
+        "label": "Scents",
+        "value": "sol de janeiro 59, citrus, calming"
+      }
+    ]
+  },
+  {
+    "id": "kimberly-bullion",
+    "firstName": "Kimberly",
+    "lastName": "Bullion",
+    "role": "CORE MID 3rd - 5th",
+    "birthday": "May 10",
+    "monogram": "KJB",
+    "size": "XL",
+    "allergies": "None. Do not like Peanut Butter",
+    "pets": "",
+    "enough": "Pens, coffee cups",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/2ZRAFK3HZACNU?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/2ZRAFK3HZACNU?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Green"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Big Bang Theory. Top Chef"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mystery thriller"
+      },
+      {
+        "label": "Gum",
+        "value": "Trident"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Turtles"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Vanilla chocolate butter pecan. Black walnut"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chicken salad chick."
+      },
+      {
+        "label": "Restaurant",
+        "value": "Gumbeauxs, Gabe’s, Beetle Cat, Daruma"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Starburst lily"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Caramel Macchiato"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Coke lemonade"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Arkansas Razorbacks, Atlanta Braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "Watermelon, strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target, Belk, Hobby Lobby, Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading"
+      },
+      {
+        "label": "Scents",
+        "value": "Citrus"
+      }
+    ]
+  },
+  {
+    "id": "sheena-burch",
+    "firstName": "Sheena",
+    "lastName": "Burch",
+    "role": "Kindergarten teacher",
+    "birthday": "August 25",
+    "monogram": "",
+    "size": "",
+    "allergies": "Pork and seafood",
+    "pets": "Cat",
+    "enough": "Cups",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/2EP0Q7O2V7R0Z?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/2EP0Q7O2V7R0Z?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Lavender, blu and coral"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas and Thanksgiving"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Gilmore Girls and Friends"
+      },
+      {
+        "label": "Candy",
+        "value": "Any kind of chocolate with nuts"
+      },
+      {
+        "label": "Gum",
+        "value": "Cinnamon"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Trail mix"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "And chips, Doritos, and kettle style chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "All kinds"
+      },
+      {
+        "label": "Fast Food",
+        "value": "KFC and Dominos"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Longhorn and Texas roadhouse mellow mushroom"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "All of them"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Dunkin’ Donuts, hot with creamer, chocolate, coconut, and toasted almond"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Alani"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "All kinds depends on the season"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon Walmart, target Ross"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Vacation/home with family and spa services"
+      },
+      {
+        "label": "Scents",
+        "value": "Coconut, lavender and citrus, apple and cinnamon"
+      }
+    ]
+  },
+  {
+    "id": "angela-byrd",
+    "firstName": "Angela",
+    "lastName": "Byrd",
+    "role": "3rd grade",
+    "birthday": "December 16",
+    "monogram": "ABL",
+    "size": "M",
+    "allergies": "",
+    "pets": "Yorkie dog",
+    "enough": "CUPS",
+    "wishlist": "Colored copy paper, masking tape",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "pink & teal"
+      },
+      {
+        "label": "Holiday",
+        "value": "All"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Disney"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Fantasy/love/adventure"
+      },
+      {
+        "label": "Candy",
+        "value": "sour patch kids, nerd clusters chewy"
+      },
+      {
+        "label": "Gum",
+        "value": "any"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "dark chocolate candy"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "trail mix"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "chocolate"
+      },
+      {
+        "label": "Fast Food",
+        "value": "chicfila, zaxbys,"
+      },
+      {
+        "label": "Restaurant",
+        "value": "texas road house"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "tulips"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "coke zero"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Georgia Tech"
+      },
+      {
+        "label": "Fruit",
+        "value": "Blueberries/strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Marshalls"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Exercising, reading, shopping, traveling"
+      }
+    ]
+  },
+  {
+    "id": "haley-cowart",
+    "firstName": "Haley",
+    "lastName": "Cowart",
+    "role": "ESEP Lead teacher",
+    "birthday": "April 27",
+    "monogram": "HCW",
+    "size": "L",
+    "allergies": "",
+    "pets": "2 dogs (Hazel and Boomer) 1 cat (Luna)",
+    "enough": "",
+    "wishlist": "Tissues, cleaning wipes, disinfectant spray",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Green"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas or Halloween"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "The Office, documentaries, war movies, crime movies and shows"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "I have to read enough at work...."
+      },
+      {
+        "label": "Candy",
+        "value": "Hershey, Reese, Snickers"
+      },
+      {
+        "label": "Gum",
+        "value": "Any"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate covered pretzels"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Popcorn, chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Chocolate"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Any sandwich place (sub sandwich)"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Brown Dog (Carrollton), Japanese, Mexican and Longhorn"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "I love any and all plants/flowers"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Any coffee, just not too sweet"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Coke, unsweet tea, water"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Georgia Bulldogs!"
+      },
+      {
+        "label": "Fruit",
+        "value": "Oranges"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Hiking, working in my yard or flower garden, exploring new places with myfamily"
+      },
+      {
+        "label": "Scents",
+        "value": "Nothing sweet. I like clean/fresh scents or fall scents!"
+      }
+    ]
+  },
+  {
+    "id": "kasey-cox",
+    "firstName": "Kasey",
+    "lastName": "Cox",
+    "role": "Irr special education",
+    "birthday": "October 10",
+    "monogram": "KCB",
+    "size": "M",
+    "allergies": "",
+    "pets": "1 dog",
+    "enough": "Coffee mugs",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Pearl Harbor/ virgin river"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mystery"
+      },
+      {
+        "label": "Gum",
+        "value": "Extra"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Yogurt covered raisins"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Smart popcorn"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Strawberry"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick fila"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas roadhouse"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Roses"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Caramel cappuccino"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Coke Zero"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "Apples"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Hiking, writing books, exercising"
+      },
+      {
+        "label": "Scents",
+        "value": "Vanilla"
+      }
+    ]
+  },
+  {
+    "id": "renee-damren",
+    "firstName": "Renee",
+    "lastName": "Damren",
+    "role": "Teacher ESEP",
+    "birthday": "January 21",
+    "monogram": "RRD",
+    "size": "L",
+    "allergies": "No sodas",
+    "pets": "Dog",
+    "enough": "Cups",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/2MGZJRQMRRU7O?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/2MGZJRQMRRU7O?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Teal"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Too many to list"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Fantasy rkmance"
+      },
+      {
+        "label": "Candy",
+        "value": "Reese’s miniature"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Raisinets"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Pretzels"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Any"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick fil a"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Red lobster"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Sunfliwers"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Caramel macchiato"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Loaded teas"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Bulldogs, braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "Any"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon, hobby lobby, michaels"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Sewing, crocheting"
+      },
+      {
+        "label": "Scents",
+        "value": "Vanilla, fruity"
+      }
+    ]
+  },
+  {
+    "id": "heather-dejohn-mathis",
+    "firstName": "Heather",
+    "lastName": "DeJohn-Mathis",
+    "role": "Assistant Principal",
+    "birthday": "August 11",
+    "monogram": "DJM",
+    "size": "M",
+    "allergies": "I have a sensitivity to processed foods, but I do eat them in small doses/moderation",
+    "pets": "Oliver and Ellie Mae (Both Teddy Bear English Goldendoodles)",
+    "enough": "llamas ;)",
+    "wishlist": "I love gel pens, markers (smelly and felt), highlighters, bright post-it notes, and good stationary (I like taking notes and sending them to teachers and students).",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas- I love seeing the kids excited!"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "One of my favorites is 'Rebecca' (I love romantic period pieces)- but I don't have a hard preference."
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mysteries"
+      },
+      {
+        "label": "Candy",
+        "value": "Twizzlers or Dark Chocolate"
+      },
+      {
+        "label": "Gum",
+        "value": "Sugar-Free- I don't have a preference"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Frozen blueberries, chocolate covered pretzals, or chocolate covered bananas"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Pretzals"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Anything chocolate"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chik-Fil-A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Cafe Intermezzo"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "I love them all!"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Cortado (with 2 splendas;)"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Cinnamon Tea"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Buffalo Bills ;)"
+      },
+      {
+        "label": "Fruit",
+        "value": "Bananas, apples (gala and pink lady are my favorites!), blueberries, strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "HomeGoods, TJ Maxx, Bath and Body Works ;)"
+      },
+      {
+        "label": "Hobbies",
+        "value": "traveling, walking, lifting weights, hiking, kayaking, mindfulness activities"
+      },
+      {
+        "label": "Scents",
+        "value": "Rose, lilacs, coffee, pumpkin, balsam"
+      }
+    ]
+  },
+  {
+    "id": "madalyn-dickerson",
+    "firstName": "Madalyn",
+    "lastName": "Dickerson",
+    "role": "1st Grade",
+    "birthday": "November 8",
+    "monogram": "MDN",
+    "size": "XXL",
+    "allergies": "",
+    "pets": "1 golden retriever, Bennett",
+    "enough": "Mugs",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/39ULSM22AISF0?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/39ULSM22AISF0?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink & yellow"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas, 4th of July"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Romance"
+      },
+      {
+        "label": "Candy",
+        "value": "Ghirardelli Caramel Chocolates, Reese’s, Nerd Gummy Clusters"
+      },
+      {
+        "label": "Gum",
+        "value": "Not a big gum lover"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate Chip Cookies, Rice Krispy Treats"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Pirates Booty, Baked Cheddar Ruffles"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Ben & Jerry’s Chocolate Caramel Cheesecake, Kilwin’s or Dairy Queen"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-fil-A, Taco Bell"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse, La Parilla, Chili’s"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Hydrangeas"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Iced Caramel & Vanilla Coffee w/ Half and Half & Liquid Sugar"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Alani Nu!!!!"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "GA bulldogs, North Paulding Wolfpack"
+      },
+      {
+        "label": "Fruit",
+        "value": "Cotton Candy Grapes, blueberries & raspberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target, TJMaxx, Belk"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, Needlepoint"
+      },
+      {
+        "label": "Scents",
+        "value": "Vanilla or fresh & clean scents"
+      }
+    ]
+  },
+  {
+    "id": "olivia-duckett",
+    "firstName": "Olivia",
+    "lastName": "Duckett",
+    "role": "Special Needs Pre-K Paraprofessional",
+    "birthday": "March 10",
+    "monogram": "ODC",
+    "size": "XXL",
+    "allergies": "",
+    "pets": "Dog",
+    "enough": "Starbucks giftcards",
+    "wishlist": "Sensory toys!",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Blue, purple"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "The Rookie"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mystery and crime"
+      },
+      {
+        "label": "Candy",
+        "value": "Mini tropical starbursts, Hershey milk chocolate kisses"
+      },
+      {
+        "label": "Gum",
+        "value": "Mint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Nutter Butter minis, oatmeal creampie"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Pretzels, Baked BBQ chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Vanilla, cotton candy, mint"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-fil-A, Chipotle, McDonalds, Taco Bell"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Tequila Mexican restaurant, Publix Subs"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "All kinds"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Not a coffe lover, but I really enjoy cotton candy Alanis"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Coke Zero"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Walmart, amazon, costco"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Baking, spending time with family, watching a good show on TV"
+      },
+      {
+        "label": "Scents",
+        "value": "Vanilla"
+      }
+    ]
+  },
+  {
+    "id": "kimberly-estes",
+    "firstName": "Kimberly",
+    "lastName": "Estes",
+    "role": "Kindergarten Paraprofessional",
+    "birthday": "November 20",
+    "monogram": "KAE",
+    "size": "L",
+    "allergies": "",
+    "pets": "No pets currently but I love dogs!",
+    "enough": "Cups, tumblers, and mugs",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Purple"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Thriller and historical fiction"
+      },
+      {
+        "label": "Candy",
+        "value": "Milk duds"
+      },
+      {
+        "label": "Gum",
+        "value": "Anything mint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Jelly beans"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Chex mix or popcorn"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Birthday cake or Turtle"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chickfila"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Wildflowers"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "White chocolate mocha"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Diet Dr. Pepper, Strawberry Vanilla Ollipop, Body Amour Lyte"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "St. Louis Cardinals, Missouri Tigers, Atlanta Falcons"
+      },
+      {
+        "label": "Fruit",
+        "value": "Apples"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Marshall’s, Kohl’s, Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, Crafts, Hiking"
+      },
+      {
+        "label": "Scents",
+        "value": "Anything vanilla or sugar cookie"
+      }
+    ]
+  },
+  {
+    "id": "jenny-evanko",
+    "firstName": "Jenny",
+    "lastName": "Evanko",
+    "role": "4th Grade",
+    "birthday": "June 12",
+    "monogram": "JAE",
+    "size": "L",
+    "allergies": "",
+    "pets": "One Cat named Sven",
+    "enough": "pens",
+    "wishlist": "Board games, puzzles, water bottle stickers, fidgets",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink and Purple"
+      },
+      {
+        "label": "Holiday",
+        "value": "Halloween Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Forrest Gump, Tangled, FRIENDS"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Historical Fiction World War II"
+      },
+      {
+        "label": "Candy",
+        "value": "Kit Kat Peanut butter M&MS"
+      },
+      {
+        "label": "Gum",
+        "value": "Spearmind"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Pretzels"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Chocolate"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chickfila"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Taco Mac Longorm"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Tulips Lillies"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Caramel Macchiato"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Diet Coke"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Penn State"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon Hobby Lobby Target"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Making things for my classroom"
+      },
+      {
+        "label": "Scents",
+        "value": "Christmas scents"
+      }
+    ]
+  },
+  {
+    "id": "sandy-gookins",
+    "firstName": "Sandy",
+    "lastName": "Gookins",
+    "role": "EIP teacher",
+    "birthday": "June 6",
+    "monogram": "SAG",
+    "size": "L",
+    "allergies": "",
+    "pets": "I have 49 pets! Including goats, pigs, donkeys, horses, chickens, bunnies, a cow and of course dogs!!",
+    "enough": "",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink!"
+      },
+      {
+        "label": "Holiday",
+        "value": "All"
+      },
+      {
+        "label": "Candy",
+        "value": "Snickers, dark chocolate"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Cookies"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Coffee or salted caramel"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-o-lay"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Anything I don’t have to cook"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "All!"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Anything caramel"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Hmmmm"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Duke"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberries and watermelon"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Ross, Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Farming and animals"
+      },
+      {
+        "label": "Scents",
+        "value": "White linen"
+      }
+    ]
+  },
+  {
+    "id": "kimberly-grimes",
+    "firstName": "Kimberly",
+    "lastName": "Grimes",
+    "role": "3rd Grade",
+    "birthday": "April 1",
+    "monogram": "KGR",
+    "size": "M",
+    "allergies": "",
+    "pets": "Miniature Schunziers Daisy and Maggie & Pug Luna",
+    "enough": "",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Purple"
+      },
+      {
+        "label": "Holiday",
+        "value": "Fall Time/Christmas/Winter"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Suspense"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mystery"
+      },
+      {
+        "label": "Candy",
+        "value": "Twix"
+      },
+      {
+        "label": "Gum",
+        "value": "Mint"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Salt & Vinegar Chips or Almonds"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Cookies & Cream"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-fil-a/Taco Bell/Arby's"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Japanese/Jim N' Nicks"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Plants/Wild Flowers"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "anything sugar free not to sweet"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Dr. Pepper Zero"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Atlanta United"
+      },
+      {
+        "label": "Fruit",
+        "value": "Bananas"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target/Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Soccer/Reading"
+      },
+      {
+        "label": "Scents",
+        "value": "Lavendar/Fall smells"
+      }
+    ]
+  },
+  {
+    "id": "abbey-hannah",
+    "firstName": "Abbey",
+    "lastName": "Hannah",
+    "role": "SNPK Teacher",
+    "birthday": "November 7",
+    "monogram": "AHG",
+    "size": "M",
+    "allergies": "",
+    "pets": "3–Colt (Labrador retriever), Hazel (mini golden bernadoodle), Snickerdoodle (mini poodle)",
+    "enough": "Coffee mugs, sticky notes, pens, paper clips",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/3ETPWQ1VIQ7IL?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/3ETPWQ1VIQ7IL?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pastels—purple, pink, blue"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Yellowstone"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Romance"
+      },
+      {
+        "label": "Candy",
+        "value": "Peanut butter M&Ms, fruit roll ups, fruit by the foot"
+      },
+      {
+        "label": "Gum",
+        "value": "Mint (no brand preference)"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Oatmeal cream pies, rice crispy treats, chocolate chip granola bars, fruit"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Baked Cheetos, jalopeno cheetos,"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Chocolate chip cookie dough, cookies and cream, moose tracks"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Dunkin, CFA, Wendys"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse, Longhorn, any Mexican restaurant"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Monsterra, pothos, roses, zinneas, orchid"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Iced Dunkalatte (Dunkin’)"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Pineapple coconut body armor, Orange mango body armor, sweet tea"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Georgia (Go Dawgs!)"
+      },
+      {
+        "label": "Fruit",
+        "value": "Yellow kiwi, bananas, pineapple"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon, Target, Tj Maxx, Marshalls"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Gardening (I haven’t had time for this in a while 😫)"
+      },
+      {
+        "label": "Scents",
+        "value": "Amber, fresh/clean scents, high maintenance Diva"
+      }
+    ]
+  },
+  {
+    "id": "robyn-head",
+    "firstName": "Robyn",
+    "lastName": "Head",
+    "role": "Kindergarten Teacher",
+    "birthday": "January 3",
+    "monogram": "RHM",
+    "size": "XL",
+    "allergies": "",
+    "pets": "3 Dogs- Blue, Dixie, Bella; Pot Belly Pig- Eleanor",
+    "enough": "Coffee Mugs",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/NLX8S1SBDUWP?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/NLX8S1SBDUWP?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink, Teal"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Romance Movies-Anyone but you; TV Shows- anything drama or romance or medical drama"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mystery/Thriller or Romance"
+      },
+      {
+        "label": "Candy",
+        "value": "Reese or Hershey Milk Chocolate"
+      },
+      {
+        "label": "Gum",
+        "value": "Anything except Fruit flavored or Spearmint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Brownies or Choc. Chip Cookies"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Cheddar and Sour Cream Chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Cookies and Cream; Peach"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chik Fil A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Taco Mac or Buffalo Wild Wings"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Carnation or Rose"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Anything Caramel that is sweet"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Coke"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "UGA Bulldogs"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberries, Pineapple"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon, Target"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Tennis, Crafting"
+      },
+      {
+        "label": "Scents",
+        "value": "Anything except Vanilla"
+      }
+    ]
+  },
+  {
+    "id": "jeanne-hinson",
+    "firstName": "Jeanne",
+    "lastName": "Hinson",
+    "role": "2nd grade",
+    "birthday": "January 26",
+    "monogram": "JMH",
+    "size": "XXL",
+    "allergies": "",
+    "pets": "dog",
+    "enough": "",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "purple"
+      },
+      {
+        "label": "Holiday",
+        "value": "christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "The bear ,Little Miss Sunshine ,Little Women"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "any"
+      },
+      {
+        "label": "Candy",
+        "value": "Tic Tacs, chocolate -any"
+      },
+      {
+        "label": "Gum",
+        "value": "spearmint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "chocolate pretzels"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "almonds"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "chocolate"
+      },
+      {
+        "label": "Fast Food",
+        "value": "chipolte"
+      },
+      {
+        "label": "Restaurant",
+        "value": "chickfila, 8-track(cartersville)"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Roses but really any"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "coffee with cream and sugar"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Diet coke"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Falcons"
+      },
+      {
+        "label": "Fruit",
+        "value": "red grapes"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Publix,amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading,thrifting"
+      },
+      {
+        "label": "Scents",
+        "value": "beach,linen,lavender"
+      }
+    ]
+  },
+  {
+    "id": "nadine-labossiere",
+    "firstName": "Nadine",
+    "lastName": "Labossiere",
+    "role": "2nd Grade Teacher",
+    "birthday": "May 12",
+    "monogram": "NAL",
+    "size": "L",
+    "allergies": "",
+    "pets": "",
+    "enough": "N/A",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/3312IC8LDAE8H?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/3312IC8LDAE8H?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Red"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "The Hobbit/Lord of the Rings/Anime"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Fiction/Mystery"
+      },
+      {
+        "label": "Candy",
+        "value": "Kit Kat/Peanut M&Ms"
+      },
+      {
+        "label": "Gum",
+        "value": "Extra Peppermint or Spearmint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "glazed Krispy Kreme donut"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Lay's Classic chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Häagen-Dazs Vanilla"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chipotle, Papa Johns, or Pita Mediterranean"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Totopos, Chili's, or Longhorns"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Orchid or Peace Lily"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Starbuck's Green Tea Frappuccino"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Diet Coke"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Atlanta Dream"
+      },
+      {
+        "label": "Fruit",
+        "value": "mango"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon, Wal-Mart"
+      },
+      {
+        "label": "Hobbies",
+        "value": "skating, reading"
+      },
+      {
+        "label": "Scents",
+        "value": "lavender or tropical"
+      }
+    ]
+  },
+  {
+    "id": "cate-lindsey",
+    "firstName": "Cate",
+    "lastName": "Lindsey",
+    "role": "4th grade teacher",
+    "birthday": "February 6",
+    "monogram": "CLL",
+    "size": "L",
+    "allergies": "",
+    "pets": "1 black lab",
+    "enough": "Cups :)",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/1SXF785YIX8ME?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/1SXF785YIX8ME?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Blues and greens"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas and Halloween"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Ever After,"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Anything magical"
+      },
+      {
+        "label": "Candy",
+        "value": "Jolly ranchers, nerd clusters, cookies and cream Hershey kisses"
+      },
+      {
+        "label": "Gum",
+        "value": "Anything minty"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Peanut butter M&Ms, take five, reeses"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Popcorn, chex mix, pistachios"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Raspberry sorbet, cookies and cream"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chickfila"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Road House. La Parilla"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Sunflowers"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Skinny vanilla latte"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Diet coke, ICE Caffeine water"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Altanta Braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "Pink Landy and Honeycrisp Apples"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon, Target, Ann Taylor, BloomChic"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Walking and apparently school work"
+      },
+      {
+        "label": "Scents",
+        "value": "Cinnamon apple"
+      }
+    ]
+  },
+  {
+    "id": "jordan-londraville",
+    "firstName": "Jordan",
+    "lastName": "Londraville",
+    "role": "4th Grade Teacher",
+    "birthday": "May 1",
+    "monogram": "",
+    "size": "L",
+    "allergies": "",
+    "pets": "",
+    "enough": "",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Orange & Blue"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Candy",
+        "value": "100 Grand, Butterfinger, Nerds Gummy Clusters, Skittles (purple or blue bag)"
+      },
+      {
+        "label": "Gum",
+        "value": "Any :-)"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Dill Pickles, Cashews, S&V Chips, Hot Cheetos, Beef Jerky"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Chocolate Marshmallow, C.C. Cookie Dough"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-Fil-A, Zaxby's, Cane's, Firehouse Subs, DQ"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Buffalo Wild Wings, Taco Mac, Texas Roadhouse, Longhorn, Miller's"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "I do not drink coffee."
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Pepsi/Coke, Mt. Dew, Gatorade/Powerade"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Syracuse Orange, Philadelphia Eagles, Chicago Bulls, Atlanta United"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Nike, Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Sports & Travel"
+      }
+    ]
+  },
+  {
+    "id": "nicole-longshore",
+    "firstName": "Nicole",
+    "lastName": "Longshore",
+    "role": "Venture",
+    "birthday": "May 8",
+    "monogram": "NHL",
+    "size": "XL",
+    "allergies": "",
+    "pets": "3 Dogs",
+    "enough": "I'm happy with whatever you'd like to gift me",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/17HSIM4Y6V1TT?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/17HSIM4Y6V1TT?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Blue and Green or any mix of the two"
+      },
+      {
+        "label": "Holiday",
+        "value": "Halloween & Christmas"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Romcom & Mystery/Thrillers"
+      },
+      {
+        "label": "Candy",
+        "value": "Chocolate Peanut butter anything"
+      },
+      {
+        "label": "Gum",
+        "value": "Cinnamon"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Ice Cream or Chocolate/Peanut butter Treats"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Mixed Nuts and Chex Mix"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "ANY except berry flavored"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chickfila"
+      },
+      {
+        "label": "Restaurant",
+        "value": "San Lucas and Texas Roadhouse"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Tulips & any potted plants"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Iced Brown Sugar Oatmilk Shaken Espresso"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Diet Dr Pepper, Diet Cherry Coke, Alani Zero"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Alabama - Roll Tide"
+      },
+      {
+        "label": "Fruit",
+        "value": "Melons and Berries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target & Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Gardening, painting, reading"
+      },
+      {
+        "label": "Scents",
+        "value": "Baking smells (bath and body)"
+      }
+    ]
+  },
+  {
+    "id": "angie-lopez",
+    "firstName": "Angie",
+    "lastName": "Lopez",
+    "role": "Kindergarten teacher",
+    "birthday": "June 5",
+    "monogram": "",
+    "size": "S",
+    "allergies": "",
+    "pets": "3 cats and 1 dog",
+    "enough": "",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/3GJWC4QV411VD?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/3GJWC4QV411VD?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink and pastel colors"
+      },
+      {
+        "label": "Holiday",
+        "value": "I love Easter!"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "I don’t watch TV"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Anything nonfiction"
+      },
+      {
+        "label": "Candy",
+        "value": "Peanut butter buckeyes"
+      },
+      {
+        "label": "Gum",
+        "value": "Mint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Dark chocolate covered orange peels"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Extra flaming hot Cheetos"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Coffee/Cookie two step"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-fil-A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Thai/Indian cuisine"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Anything pretty!"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "White chocolate peppermint mocha"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Lemonade"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Detroit Tigers/Lions"
+      },
+      {
+        "label": "Fruit",
+        "value": "Golden kiwi or pineapple"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Marshall’s/TJ Maxx"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Walking/hiking, cooking, traveling"
+      },
+      {
+        "label": "Scents",
+        "value": "Lavender and peppermint"
+      }
+    ]
+  },
+  {
+    "id": "dania-machado",
+    "firstName": "Dania",
+    "lastName": "Machado",
+    "role": "ESOL Teacher",
+    "birthday": "August 12",
+    "monogram": "DAM",
+    "size": "XXL",
+    "allergies": "",
+    "pets": "",
+    "enough": "Candles, mugs",
+    "wishlist": "Tissues, wipes, cute pens & school items",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Navy Blue"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Romance"
+      },
+      {
+        "label": "Candy",
+        "value": "Dark and milk chocolate, peanut M&M’s"
+      },
+      {
+        "label": "Gum",
+        "value": "Orbit Bubble gum (sugar free)"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Target peanut butter monster"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Bake Lays chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Brusters Chocolate Raspberry Truffle"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick Fi La"
+      },
+      {
+        "label": "Restaurant",
+        "value": "La Parrilla"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Tulips, Orchids & Peonies"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Starbucks iced white mocha, no whip"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Starbucks Strawberry Açaí Lemonade"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Miami Hurricanes, Braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "Bananas, berries, pretty much all"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Shopping, organizing all the things"
+      },
+      {
+        "label": "Scents",
+        "value": "Lavender, capri volcano, any clean smells"
+      }
+    ]
+  },
+  {
+    "id": "katie-mcdermott",
+    "firstName": "Katie",
+    "lastName": "McDermott",
+    "role": "5th grade",
+    "birthday": "April 4",
+    "monogram": "KJM",
+    "size": "L",
+    "allergies": "",
+    "pets": "",
+    "enough": "",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/161GYH9II56ZX?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/161GYH9II56ZX?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Blue"
+      },
+      {
+        "label": "Candy",
+        "value": "Reese’s"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate covered pretzels, cookies"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Popcorn"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Mint chocolate chip"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-fil-A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse, Longhorns"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Sunflower"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Caramel Latte"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Diet Coke, sweet tea"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "UGA, Georgia Southern"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target, Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Hiking"
+      },
+      {
+        "label": "Scents",
+        "value": "Anything light and fresh"
+      }
+    ]
+  },
+  {
+    "id": "mandy-mincy",
+    "firstName": "Mandy",
+    "lastName": "Mincy",
+    "role": "1st grade teacher",
+    "birthday": "October 28",
+    "monogram": "MMM",
+    "size": "M",
+    "allergies": "",
+    "pets": "Cats, Dog and frog",
+    "enough": "Cups",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Blue and purple"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Big Bang Theory and Snapped"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mystery"
+      },
+      {
+        "label": "Candy",
+        "value": "Carmel"
+      },
+      {
+        "label": "Gum",
+        "value": "Yuck"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Bulit Protein Bars lemon/green apple"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Chomps"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick Fil A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Sunflower"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "No thanks"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Coke Zero and Celsius and Water"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "UGA"
+      },
+      {
+        "label": "Fruit",
+        "value": "Blackberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon or Walmart"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Pilates, gym and kayaking"
+      },
+      {
+        "label": "Scents",
+        "value": "Lemon"
+      }
+    ]
+  },
+  {
+    "id": "baxter-misty",
+    "firstName": "Baxter",
+    "lastName": "Misty",
+    "role": "3rd Grade Teacher",
+    "birthday": "May 15",
+    "monogram": "MIB",
+    "size": "M",
+    "allergies": "",
+    "pets": "2 dogs and 1 cat",
+    "enough": "mugs :)",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Turquoise and Teal Blue"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Harry Potter/Disney"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Thrillers"
+      },
+      {
+        "label": "Candy",
+        "value": "Nerd Clusters"
+      },
+      {
+        "label": "Gum",
+        "value": "Cinnamon"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Reese's Cups"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Any chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Vanilla"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Taco Bell"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Taco Mac"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Any houseplant"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Caramel Latte"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Diet Dr. Pepper"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Falcons/GA Bulldogs"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "WalMart/Hobby Lobby"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, Lego"
+      }
+    ]
+  },
+  {
+    "id": "jennifer-mullinax",
+    "firstName": "Jennifer",
+    "lastName": "Mullinax",
+    "role": "5th Grade Teacher",
+    "birthday": "July 24",
+    "monogram": "JMR",
+    "size": "XL",
+    "allergies": "",
+    "pets": "2! Boxers-Lily and Jax",
+    "enough": "Expo/Dry Erase Markers!!!",
+    "wishlist": "Anything that makes the students happy, smiley faces, fidgets, all the things",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink and Teal"
+      },
+      {
+        "label": "Holiday",
+        "value": "Thanksgiving/Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Fast & Furious movies, any of the Chicago/Law and Order shows!"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mystery/Thriller books"
+      },
+      {
+        "label": "Candy",
+        "value": "Reese's and Skittles"
+      },
+      {
+        "label": "Gum",
+        "value": "ANY gum is great!"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Little Debbie cakes (Fudge Rounds/Star Crunch), Hostess Cakes, etc."
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Popcorn (extra butter or white cheddar)"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Cookies & Cream milkshakes, DQ anything"
+      },
+      {
+        "label": "Fast Food",
+        "value": "DQ, Chick-Fil-A, Zaxby's"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Taki, Texas Roadhouse, Big Doug's"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Daisies, Gardenias, Hibiscus"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Frozen Coffee w/ Caramel (extra caramel)"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Coke Zero, water"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Atlanta Braves/Falcons/Hawks, GA Bulldogs"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Kohl's, Target, Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, napping, creating fun things on Canva"
+      },
+      {
+        "label": "Scents",
+        "value": "warm vanilla, mint and eucalyptus"
+      }
+    ]
+  },
+  {
+    "id": "abbie-murphy",
+    "firstName": "Abbie",
+    "lastName": "Murphy",
+    "role": "IRR",
+    "birthday": "January 31",
+    "monogram": "AMD",
+    "size": "L",
+    "allergies": "",
+    "pets": "Dog named Kona",
+    "enough": "",
+    "wishlist": "Pens",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Green/Neutral Colors"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Disney Movies"
+      },
+      {
+        "label": "Candy",
+        "value": "Twizzlers/Sour Straws"
+      },
+      {
+        "label": "Gum",
+        "value": "Anything mint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Sea salt caramels/Kettle corn"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Hot Cheetos/Classic Lays"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Chocolate brownie"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Zaxbys"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Sunflower"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Caramel Craze Iced Signature Latte from Dunkin"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Dr. Pepper or Sweet Tea"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Braves/Auburn Tigers"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Marshall’s or HomeGoods"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Traveling with family"
+      },
+      {
+        "label": "Scents",
+        "value": "Fall or Christmas"
+      }
+    ]
+  },
+  {
+    "id": "alyssa-murphy",
+    "firstName": "Alyssa",
+    "lastName": "Murphy",
+    "role": "1st",
+    "birthday": "January 11",
+    "monogram": "ACM",
+    "size": "L",
+    "allergies": "None :)",
+    "pets": "Yes! One dog named Poppy",
+    "enough": "mugs <3",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/15KAF4O8RTM9F?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/15KAF4O8RTM9F?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Green & blue"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "New Girl, How I Met Your Mother, Criminal Minds"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Audio ;)"
+      },
+      {
+        "label": "Candy",
+        "value": "Reeses, gummy bears"
+      },
+      {
+        "label": "Gum",
+        "value": "I prefer mints :)"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate covered nuts, granola bars"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Dots pretzels, sun chips, goldfish"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Mint chocolate chip"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chickfila, Jimmy Johns, Firehouse, Taco Bell"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse, Chilis, or anything local"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Any! I love plants!"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Iced vanilla latte or shaken espresso"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Lemonade"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Cleveland Browns"
+      },
+      {
+        "label": "Fruit",
+        "value": "Green grapes, berries, kiwi"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon, Target, Hooby Lobby, or anything local"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Being outside, plants, Pilates, reading"
+      },
+      {
+        "label": "Scents",
+        "value": "Vanilla, coffee, mint"
+      }
+    ]
+  },
+  {
+    "id": "ashley-owens",
+    "firstName": "Ashley",
+    "lastName": "Owens",
+    "role": "Teacher/3rd",
+    "birthday": "March 8",
+    "monogram": "ATO",
+    "size": "L",
+    "allergies": "soymilk and soy sauce",
+    "pets": "1 cat",
+    "enough": "Notepads",
+    "wishlist": "https://www.amazon.com/registries/gl/guest-view/2MFL4VJD5OA27?ref_=cm_sw_r_apin_ggr-subnav-share_0GNDQ3CWXM45JMB4BYZC&language=en-US",
+    "wishlistUrl": "https://www.amazon.com/registries/gl/guest-view/2MFL4VJD5OA27?ref_=cm_sw_r_apin_ggr-subnav-share_0GNDQ3CWXM45JMB4BYZC&language=en-US",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Any classic Disney movie"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Thriller"
+      },
+      {
+        "label": "Candy",
+        "value": "Twix, Peanut M&Ms, Sour gummy worms"
+      },
+      {
+        "label": "Gum",
+        "value": "Any minty flavor"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate chip cookies"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Popcorn or Sunchips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Cookie Dough"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chickfila"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Any Mexican restaurant"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Roses"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Caramel Iced Coffee with Creamer"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Cotton Candy Alanis"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Georgia Bulldogs"
+      },
+      {
+        "label": "Fruit",
+        "value": "Apples"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Marshalls and Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Hiking, working out, reading, spending money"
+      },
+      {
+        "label": "Scents",
+        "value": "Vanilla and Eucalyptus"
+      }
+    ]
+  },
+  {
+    "id": "laurie-parker",
+    "firstName": "Laurie",
+    "lastName": "Parker",
+    "role": "EIP Teacher",
+    "birthday": "June 21",
+    "monogram": "LPA",
+    "size": "XL",
+    "allergies": "",
+    "pets": "2 Boston Terriers and a cat",
+    "enough": "",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink and Red"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Outlander, Shrinking, Will Trent"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Historical Fiction"
+      },
+      {
+        "label": "Candy",
+        "value": "Chocolate, Nerd Gummy Clusters, Gummy Bears"
+      },
+      {
+        "label": "Gum",
+        "value": "Sugar free spearmint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Cookies- chocolate chip"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Pretzels"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Bruster’s, Dairy Queen, Ben &Jerry’s"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chic-fil-a"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse, Longhorn, Huey Luey’s"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "All plants and flowers"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Prefer hot or ice tea"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Fruit refreshers, lemonade, diet teas"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Georgia Tech"
+      },
+      {
+        "label": "Fruit",
+        "value": "Banana, berries,"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon, Marshalls, Target"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, Genealogy, Travel, jigsaw puzzles"
+      },
+      {
+        "label": "Scents",
+        "value": "Citrus and coconut"
+      }
+    ]
+  },
+  {
+    "id": "margaret-perry",
+    "firstName": "Margaret",
+    "lastName": "Perry",
+    "role": "EIP Teacher",
+    "birthday": "August 1",
+    "monogram": "MLP",
+    "size": "L",
+    "allergies": "",
+    "pets": "Cat (Gizmo)",
+    "enough": "mugs",
+    "wishlist": "Tissues, reward stickers, candy rewards",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Red/Black, Green and Neon colors"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "To Kill a Mockingbird"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Biography or Historical Fiction"
+      },
+      {
+        "label": "Candy",
+        "value": "White Chocolate Reese's and Cinnamon Candy"
+      },
+      {
+        "label": "Gum",
+        "value": "Cinnamon"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Craisins or Donuts"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Almonds or Sour Cream Potato Chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Butter Pecan"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick Fil A or Starbucks"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Ipp's or Henry's"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Roses and any tropical plant"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Americano with sugar-free vanilla and coconut milk"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Dr. Pepper Zero"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "GA Bulldogs"
+      },
+      {
+        "label": "Fruit",
+        "value": "Apple or Pineapple"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "TJ Maxx or Homegoods"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Garden, craft, and paint"
+      },
+      {
+        "label": "Scents",
+        "value": "Coconut or any light clean scent"
+      }
+    ]
+  },
+  {
+    "id": "melanie-peterson",
+    "firstName": "Melanie",
+    "lastName": "Peterson",
+    "role": "Kindergarten teacher",
+    "birthday": "June 3",
+    "monogram": "MPK",
+    "size": "M",
+    "allergies": "",
+    "pets": "2 dogs- Poodle and a schnauzer",
+    "enough": "mugs",
+    "wishlist": "small treasure box toys",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "green"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "You've Got Mail / When Calls the Heart"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Christian Historical fiction"
+      },
+      {
+        "label": "Candy",
+        "value": "Reese's, peanut M&M's"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Cheez-its"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "mint chocolate chip"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick Fil A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Provino's"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Pansies, and any type of succulent"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "caramel latte (very sweet)"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "sweet tea"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Atlanta Braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "strawberries, blueberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon, Belk, Old Navy, Target, Urban Renewal"
+      },
+      {
+        "label": "Hobbies",
+        "value": "estate sales, thrift stores, painting furniture"
+      },
+      {
+        "label": "Scents",
+        "value": "citrus"
+      }
+    ]
+  },
+  {
+    "id": "crystal-posey",
+    "firstName": "Crystal",
+    "lastName": "Posey",
+    "role": "1st Grade Teacher",
+    "birthday": "December 5",
+    "monogram": "CPN",
+    "size": "XL",
+    "allergies": "Shellfish allergy , tropical fruits allergy (mango,, coconut, pineapple)",
+    "pets": "Carter-goldendoodle!",
+    "enough": "Coffee mugs and water bottles..no more thank you!",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/546B2JCF0QZT?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/546B2JCF0QZT?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Blue"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "One Tree Hill"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mystery"
+      },
+      {
+        "label": "Candy",
+        "value": "Sour patch kids"
+      },
+      {
+        "label": "Gum",
+        "value": "Anything spearmint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Dark chocolate chips"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Jalopeno chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Chocolate Chip"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick Fil A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Rosa Negra"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Red Roses"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Vanilla Latte (iced/hot depending on season)"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Dr. Pepper"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "North Carolina Tarheels, Carolina Panthers!"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, movie theater and playing with my dog"
+      },
+      {
+        "label": "Scents",
+        "value": "Vanilla, light florals"
+      }
+    ]
+  },
+  {
+    "id": "gracie-proux",
+    "firstName": "Gracie",
+    "lastName": "Proux",
+    "role": "4th Grade Teacher",
+    "birthday": "August 8",
+    "monogram": "GEP",
+    "size": "L",
+    "allergies": "",
+    "pets": "I have a cat and a dog!",
+    "enough": "",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/1R91MCA8LDO7O?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/1R91MCA8LDO7O?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink, green, and blue!"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas, Valentine's Day, and Thanksgiving"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Marvel movies, Full House, and Stranger Things"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mystery/Thriller"
+      },
+      {
+        "label": "Candy",
+        "value": "3 Musketeers, Skittles, and Gobstoppers!"
+      },
+      {
+        "label": "Gum",
+        "value": "Any fruit flavor! (Anything BUT cinnamon!)"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Oreos, Oatmeal Cream Pies, Candy"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Pretzels, potato chips, pistachios"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Cookie Dough or Vanilla"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Arby's, Taco Bell, and Chick Fil A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse, Longhorn's, La Cocina"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Tulips and Poppies"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Iced Vanilla Blonde Cold Brew with Extra Cream"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Sprite or Bloom Energy Drinks"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "(Not a big sports person) GA Bulldogs"
+      },
+      {
+        "label": "Fruit",
+        "value": "Grapes, strawberries, & pineapple"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target, Walmart, Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, Crocheting,"
+      },
+      {
+        "label": "Scents",
+        "value": "Vanilla, Lavender, Cinnamon"
+      }
+    ]
+  },
+  {
+    "id": "tara-reed",
+    "firstName": "Tara",
+    "lastName": "Reed",
+    "role": "Kindergarten Para",
+    "birthday": "February 1",
+    "monogram": "TRH",
+    "size": "L",
+    "allergies": "",
+    "pets": "2 dogs",
+    "enough": "Coffee cups, water bottles",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Light purple"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Reality TV, Gilmore Girls, Cooking shows"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "All"
+      },
+      {
+        "label": "Candy",
+        "value": "Chocolate"
+      },
+      {
+        "label": "Gum",
+        "value": "Anything minty"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Cheezits"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Chocolate peanut butter"
+      },
+      {
+        "label": "Fast Food",
+        "value": "CFA"
+      },
+      {
+        "label": "Restaurant",
+        "value": "La Parilla, Texas Roadhouse, Longhorns"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Dunkin Donuts, Starbucks"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Dr Pepper, sweet tea"
+      },
+      {
+        "label": "Fruit",
+        "value": "All"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target, Ross, TJ Maxx, Marshall’s"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, thrifting"
+      },
+      {
+        "label": "Scents",
+        "value": "Vanilla, Apple cinnamon,"
+      }
+    ]
+  },
+  {
+    "id": "whitney-reynolds",
+    "firstName": "Whitney",
+    "lastName": "Reynolds",
+    "role": "5th Teacher",
+    "birthday": "March 15",
+    "monogram": "WRC",
+    "size": "L",
+    "allergies": "",
+    "pets": "",
+    "enough": "Flare Pens",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Red"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Tombstone"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Adventures, romance, series"
+      },
+      {
+        "label": "Candy",
+        "value": "Reeses"
+      },
+      {
+        "label": "Gum",
+        "value": "Spearmint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Trolli gummies"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "cheddar and sour cream chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "chocolate chip cookie dough"
+      },
+      {
+        "label": "Fast Food",
+        "value": "taco bell"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Longhorns"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "any plant"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "white chocolate mocha frapachino"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Dr. Pepper"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "UGA and Braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, Gardening"
+      },
+      {
+        "label": "Scents",
+        "value": "Clean Linen"
+      }
+    ]
+  },
+  {
+    "id": "jacob-runyon",
+    "firstName": "Jacob",
+    "lastName": "Runyon",
+    "role": "AP",
+    "birthday": "March 28",
+    "monogram": "",
+    "size": "XL",
+    "allergies": "",
+    "pets": "",
+    "enough": "Cheap pens and writing surfaces",
+    "wishlist": ".5 non smear clickable gel pens",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Blue"
+      },
+      {
+        "label": "Holiday",
+        "value": "Thanksgiving"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Saving Private Ryan (movie)/The Office (show)"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "All types - Fantasy, classics, history, leadership. I know it’s sounds bad…. Anything but educational research 🤣"
+      },
+      {
+        "label": "Candy",
+        "value": "Life saver mints, Reese’s, skittles"
+      },
+      {
+        "label": "Gum",
+        "value": "5 mint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Jelly beans"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Sun chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Vanilla"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-fil-A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Mellow Mushroom"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "One that doesn’t die?"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Black drip coffee"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Dr. Pepper Zero"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Liverpool FC, Atlanta United, Carolina Panthers"
+      },
+      {
+        "label": "Fruit",
+        "value": "Pink lady apples (really just not Granny Smith)"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Fishing, running, camping, reading, writing"
+      },
+      {
+        "label": "Scents",
+        "value": "Not girly?"
+      }
+    ]
+  },
+  {
+    "id": "stephania-sanders",
+    "firstName": "Stephania",
+    "lastName": "Sanders",
+    "role": "Second Grade",
+    "birthday": "May 13",
+    "monogram": "SRS",
+    "size": "L",
+    "allergies": "",
+    "pets": "2 dogs and 3 cats",
+    "enough": "",
+    "wishlist": "I love Snoopy and the Peanuts Gang.",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Comedy"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Historical Fiction"
+      },
+      {
+        "label": "Candy",
+        "value": "Reese’s Cups"
+      },
+      {
+        "label": "Gum",
+        "value": "Spearmint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Rice Krispy Treats"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Chex Mix"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Rocky Road"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-fil-a"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Succulents"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Plain Black"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Diet Coke"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Georgia Bulldogs"
+      },
+      {
+        "label": "Fruit",
+        "value": "Bananas"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Hiking and Camping"
+      },
+      {
+        "label": "Scents",
+        "value": "Vanilla"
+      }
+    ]
+  },
+  {
+    "id": "erin-schmidt",
+    "firstName": "Erin",
+    "lastName": "Schmidt",
+    "role": "Gifted/Venture Teacher",
+    "birthday": "June 18",
+    "monogram": "ESA",
+    "size": "L",
+    "allergies": "",
+    "pets": "Cat - Luna 🐾",
+    "enough": "Tumblers/Cups",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/3G9A8PK089J60?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/3G9A8PK089J60?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Blue & Green"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas and July 4th"
+      },
+      {
+        "label": "Candy",
+        "value": "M&Ms"
+      },
+      {
+        "label": "Gum",
+        "value": "Yes!! All but cinnamon"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Fruit"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Pretzels"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Yes to all 😂"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Zaxby's"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Roses and Daisies"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Gas Station - Sugar Free French Vanilla Cappachino"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Diet Coke"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Buffalo Bills"
+      },
+      {
+        "label": "Fruit",
+        "value": "All"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Marshalls/Hobby Lobby/Walmart"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, Thrifting, and crafting"
+      },
+      {
+        "label": "Scents",
+        "value": "Fall"
+      }
+    ]
+  },
+  {
+    "id": "tracy-sellars",
+    "firstName": "Tracy",
+    "lastName": "Sellars",
+    "role": "Principal",
+    "birthday": "August 23",
+    "monogram": "",
+    "size": "S",
+    "allergies": "",
+    "pets": "Two Dogs - Boxers and One Cat - Persian",
+    "enough": "",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Green"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Science/History"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Psychological Thrillers"
+      },
+      {
+        "label": "Gum",
+        "value": "Peppermint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Trail Mix"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Chocolate"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick Fil A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Chick Fil A"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Peonies"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Vanilla Lattee"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Water, Lemonade"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Georgia Bulldogs, Atlanta Braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "Berries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Publix"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Running"
+      },
+      {
+        "label": "Scents",
+        "value": "Lavendar, Lemongrass"
+      }
+    ]
+  },
+  {
+    "id": "kelci-sexton",
+    "firstName": "Kelci",
+    "lastName": "Sexton",
+    "role": "3rd grade teacher",
+    "birthday": "August 21",
+    "monogram": "",
+    "size": "S",
+    "allergies": "",
+    "pets": "Dog",
+    "enough": "Cups",
+    "wishlist": "https://www.amazon.com/hz/wishlist/ls/1JYMGFDHRUF70?ref_=wl_share",
+    "wishlistUrl": "https://www.amazon.com/hz/wishlist/ls/1JYMGFDHRUF70?ref_=wl_share",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pastel colors"
+      },
+      {
+        "label": "Holiday",
+        "value": "Fall"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Big bang theory"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mystery"
+      },
+      {
+        "label": "Candy",
+        "value": "Nerd clusters, Kit Kat, reeces, snickers, sour gummy worms"
+      },
+      {
+        "label": "Gum",
+        "value": "Any"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate covered pretzels"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "White cheddar popcorn, cheeze it’s"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Salted caramel, strawberry"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick fil a"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Lillies"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "I do not drink coffee, Alani instead"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Sweet tea, pibb xtra"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Braves, UGA"
+      },
+      {
+        "label": "Fruit",
+        "value": "Strawberry, watermelon"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon, target"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Being outside, sports"
+      },
+      {
+        "label": "Scents",
+        "value": "Soft scents, not strong"
+      }
+    ]
+  },
+  {
+    "id": "michelle-taylor",
+    "firstName": "Michelle",
+    "lastName": "Taylor",
+    "role": "Kindergarten para",
+    "birthday": "December 27",
+    "monogram": "MTR",
+    "size": "L",
+    "allergies": "",
+    "pets": "Yes, a dog.",
+    "enough": "",
+    "wishlist": "We always need more Clorox Wipes and tissue",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Candy",
+        "value": "Reese's Chocolate and Sour Skittles"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Chips"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick Fil A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "No coffee"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Dr. Pepper, Mtn Dew, Sweet Tea"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Alabama"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Walmart, Amazon"
+      }
+    ]
+  },
+  {
+    "id": "tori-thomason",
+    "firstName": "Tori",
+    "lastName": "Thomason",
+    "role": "PE Teacher",
+    "birthday": "March 26",
+    "monogram": "TTJ",
+    "size": "M",
+    "allergies": "",
+    "pets": "Dog and cat",
+    "enough": "",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Sweet home Alabama"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Comedy"
+      },
+      {
+        "label": "Candy",
+        "value": "Snickers"
+      },
+      {
+        "label": "Gum",
+        "value": "Peppermint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Squashies"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Salt and vinegar chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Strawberry"
+      },
+      {
+        "label": "Fast Food",
+        "value": "CFA"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Rose"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Caramel macchiato"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Sprite"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "UGA"
+      },
+      {
+        "label": "Fruit",
+        "value": "Apple"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Shopping, reading"
+      },
+      {
+        "label": "Scents",
+        "value": "Fresh linen"
+      }
+    ]
+  },
+  {
+    "id": "cheryl-walburn",
+    "firstName": "Cheryl",
+    "lastName": "Walburn",
+    "role": "Music Teacher",
+    "birthday": "April 22",
+    "monogram": "CTW",
+    "size": "XL",
+    "allergies": "",
+    "pets": "1 cat (Rufus)",
+    "enough": "coffee mugs",
+    "wishlist": "80's music; Jimmy Buffett; Little Mermaid",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Turquoise; Blue; Pink"
+      },
+      {
+        "label": "Candy",
+        "value": "Twix; Almond Joy"
+      },
+      {
+        "label": "Gum",
+        "value": "Eclipse (Peppermint)"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Twix; Almond Joy"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Mountain trail mix"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "yes! :) (almost any flavor!)"
+      },
+      {
+        "label": "Fast Food",
+        "value": "CFA; Zaxby's"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Longhorn; Panera"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Blue Hydrangea; Pink Roses"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "No, thank you"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Half-sweet tea; Vanilla Coke"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Atlanta Braves; FSU Seminoles"
+      },
+      {
+        "label": "Fruit",
+        "value": "All"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Amazon; Publix; Walmart"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Travel; Watching Braves baseball"
+      },
+      {
+        "label": "Scents",
+        "value": "No, thank you"
+      }
+    ]
+  },
+  {
+    "id": "amy-west",
+    "firstName": "Amy",
+    "lastName": "West",
+    "role": "SLP",
+    "birthday": "March 18",
+    "monogram": "AWR",
+    "size": "L",
+    "allergies": "",
+    "pets": "Golden Doodle & Chihuahua",
+    "enough": "mugs",
+    "wishlist": "I am thankful for anything! (:",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Blue"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "anything action packed"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "mystery"
+      },
+      {
+        "label": "Candy",
+        "value": "Hershey's & Starbursts"
+      },
+      {
+        "label": "Gum",
+        "value": "anything minty"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "snack cakes"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Salt & Vinegar chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "strawberry"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick Fil A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Longhorn's"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Any"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Hot Chocolate"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Coke"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Alabama"
+      },
+      {
+        "label": "Fruit",
+        "value": "Apples"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Hobby Lobby"
+      },
+      {
+        "label": "Hobbies",
+        "value": "reading and working in the yard"
+      },
+      {
+        "label": "Scents",
+        "value": "any"
+      }
+    ]
+  },
+  {
+    "id": "sydney-west",
+    "firstName": "Sydney",
+    "lastName": "West",
+    "role": "IRR",
+    "birthday": "August 26",
+    "monogram": "SWR",
+    "size": "XXL",
+    "allergies": "",
+    "pets": "Dogs, Goldendoodles",
+    "enough": "NA",
+    "wishlist": "I'm happy to have any supplies! :)",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink, Rainbow, Glitter"
+      },
+      {
+        "label": "Holiday",
+        "value": "Halloween, Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Disney Movies"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Fantasy, Mystery"
+      },
+      {
+        "label": "Candy",
+        "value": "Starburst, KitKat, Reeses"
+      },
+      {
+        "label": "Gum",
+        "value": "Polar Ice"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate Covered Pretzels, Dark Chocolate Espresso Trail Mix (Target)"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Lays Barbecue Baked Potato Chips, Doritos"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Coffee, Chocolate, Cookie Dough"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-Fil-A, Subway"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Longhorn"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Succulent"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Iced Caramel Latte"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Sprite, Tea, Golden Cherry Liquid IV"
+      },
+      {
+        "label": "Fruit",
+        "value": "Apples, Oranges, Strawberries"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Hobby Lobby"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Reading, Legos, Disney"
+      },
+      {
+        "label": "Scents",
+        "value": "Fresh Linen, Rain water, Pumpkin, Apple"
+      }
+    ]
+  },
+  {
+    "id": "amanda-whelan",
+    "firstName": "Amanda",
+    "lastName": "Whelan",
+    "role": "Kindergarten Teacher",
+    "birthday": "May 17",
+    "monogram": "AWS",
+    "size": "XL",
+    "allergies": "Allergic to coconut",
+    "pets": "I have a dog named Toby. He is a morkie and only 3.2 pounds!",
+    "enough": "candles and school supplies.",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "sage green and gold."
+      },
+      {
+        "label": "Holiday",
+        "value": "CHRISTMAS!!!!!!!!!!"
+      },
+      {
+        "label": "Candy",
+        "value": "Reeses. Kit-Kat. Anything with white chocolate."
+      },
+      {
+        "label": "Gum",
+        "value": "No gum."
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Strawberry Fruit Roll Ups. White chocolate. Zebra popcorn."
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Skinny Pop."
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Butter Pecan"
+      },
+      {
+        "label": "Fast Food",
+        "value": "ChickFilA. Crumbl. Culvers."
+      },
+      {
+        "label": "Restaurant",
+        "value": "Longhorn. Jeffersons."
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Peonies"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "I do not drink coffee."
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Dr. Pepper Zero."
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "Green Grapes. Strawberries."
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target. Amazon. Walmart. Hobby Lobby. Ulta."
+      },
+      {
+        "label": "Scents",
+        "value": "anything vanilla, woodsy, chashmere."
+      }
+    ]
+  }
+]
