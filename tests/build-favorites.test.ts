@@ -108,3 +108,11 @@ test("monograms: initials kept, typed-out names reduced, placeholders dropped", 
   assert.equal(cleanMonogram("??????"), "");
   assert.equal(cleanMonogram(""), "");
 });
+
+test('"NA" and "none" in the already-have-enough field are blanked, real answers kept', () => {
+  const r = (enough: string) =>
+    buildFavorites([HEADER, row(["1/1/2026 10:00:00", "Q", "Zoe", "", "", "", "", "", "", ...Array(19).fill(""), enough, ""])].join("\r\n"))[0].enough;
+  assert.equal(r("NA"), "");
+  assert.equal(r("None."), "");
+  assert.equal(r("Cups"), "Cups");
+});

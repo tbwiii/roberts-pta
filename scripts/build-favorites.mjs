@@ -185,7 +185,7 @@ export function buildFavorites(csvText) {
       size: cell(idx.size),
       allergies: isNone(allergies) ? "" : allergies,
       pets: isNone(pets) ? "" : pets,
-      enough: cell(idx.enough),
+      enough: isNone(cell(idx.enough)) ? "" : cell(idx.enough),
       wishlist,
       wishlistUrl,
       favorites: favCols

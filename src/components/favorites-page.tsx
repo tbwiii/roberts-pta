@@ -9,6 +9,7 @@ import {
   IconShirt,
   IconAlertTriangle,
 } from "@tabler/icons-react";
+import Social from "./social";
 import data from "../data/staff-favorites.json";
 import {
   QUICK_LABELS,
@@ -288,9 +289,10 @@ export default function FavoritesPage() {
         </p>
       )}
 
-      <p className="border-t-2 border-dashed border-roberts_blue-600 pt-5 text-sm font-medium text-roberts_blue-100">
+      <p className="text-sm font-medium text-roberts_blue-100">
         Shared by staff on the PTA favorite things survey.
       </p>
+      <Social />
     </main>
   );
 }
