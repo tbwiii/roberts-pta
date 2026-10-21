@@ -2528,6 +2528,98 @@
     ]
   },
   {
+    "id": "shayna-mcdaniels",
+    "firstName": "Shayna",
+    "lastName": "McDaniels",
+    "role": "Kindergarten Teacher",
+    "birthday": "July 4",
+    "monogram": "SDM",
+    "size": "XL",
+    "allergies": "",
+    "pets": "",
+    "enough": "Teacher cups/mugs/stationary",
+    "wishlist": "https://www.amazon.com/registries/gl/guest-view/P68LTNZCTIO1?ref_=cm_sw_r_cp_ud_ggr-subnav-share_AY0PNBKRT3DACWNXMMD2",
+    "wishlistUrl": "https://www.amazon.com/registries/gl/guest-view/P68LTNZCTIO1?ref_=cm_sw_r_cp_ud_ggr-subnav-share_AY0PNBKRT3DACWNXMMD2",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Pink or Black"
+      },
+      {
+        "label": "Holiday",
+        "value": "All"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Any Documentaries or Crime TV"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Murder Mystery"
+      },
+      {
+        "label": "Candy",
+        "value": "Mr Goodbar"
+      },
+      {
+        "label": "Gum",
+        "value": "Any Mint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Sweet and Salty Nuts"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Chips"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Butter Pecan"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Jersey Mikes"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Outback or LongHorn"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Roses or Hydrangea"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Dunkin - French Vanilla and Carmel Iced Coffee w/ cream and suga"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Coke Zero"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "E-A-G-L-E-S , EAGLES!!!!"
+      },
+      {
+        "label": "Fruit",
+        "value": "Grapes"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Walmart or Kroger"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Traveling"
+      },
+      {
+        "label": "Scents",
+        "value": "NO FLORAL - Fruity and Vanilla"
+      }
+    ]
+  },
+  {
     "id": "katie-mcdermott",
     "firstName": "Katie",
     "lastName": "McDermott",
@@ -4436,6 +4528,98 @@
       {
         "label": "Scents",
         "value": "No, thank you"
+      }
+    ]
+  },
+  {
+    "id": "kathrine-walker",
+    "firstName": "Kathrine",
+    "lastName": "Walker",
+    "role": "Kindergarten IRR Para",
+    "birthday": "September 27",
+    "monogram": "KWP",
+    "size": "XL",
+    "allergies": "",
+    "pets": "",
+    "enough": "I love it all!!!",
+    "wishlist": "Sharpies/Poster Markers",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Olive Green"
+      },
+      {
+        "label": "Holiday",
+        "value": "All of them!!! I like to celebrate!"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Comedy and Disney"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Devotional"
+      },
+      {
+        "label": "Candy",
+        "value": "Chocolate!!"
+      },
+      {
+        "label": "Gum",
+        "value": "No thank you."
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Chocolate covered pretzels"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Popcorn"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Chocolate/coffee"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick-fil-A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Mexican/Jim & Nick's"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Love 'em all"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "White mocha"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Coconut Water/Alanis"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "UGA - Go DAWGS!!!/Braves"
+      },
+      {
+        "label": "Fruit",
+        "value": "All of it!"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Marshall's/Walmart/Amazon"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Vacationing!! :) Scrapbooking/Cookouts/Fire Pit/Hot Baths!!"
+      },
+      {
+        "label": "Scents",
+        "value": "Citrus/Fall Scents"
       }
     ]
   },
