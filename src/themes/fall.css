@@ -42,8 +42,8 @@
 .fall-corner {
   position: absolute;
   top: 0;
-  width: 52px;
-  height: 52px;
+  width: 64px;
+  height: 64px;
   opacity: 0.92;
 }
 .fall-corner-l { left: 0; transform-origin: 0 0; }
@@ -105,7 +105,7 @@
 .fall-corner-r { display: none; }
 
 @media (min-width: 640px) {
-  .fall-corner { width: 104px; height: 104px; }
+  .fall-corner { width: 132px; height: 132px; }
   .fall-corner-r { display: block; }
 }
 
