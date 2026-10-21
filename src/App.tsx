@@ -6,6 +6,7 @@ import Social from "./components/social";
 import Starfield from "./components/starfield";
 import InstallBanner from "./components/install-banner";
 import FavoritesPage from "./components/favorites-page";
+import { SeasonLayer } from "./themes/season";
 
 // Hash routing keeps the site a single static page: no server rewrites needed.
 function useHash() {
@@ -23,6 +24,7 @@ function App() {
   return (
     <div className="font-roberts relative min-h-screen overflow-hidden bg-roberts_blue-900">
       <Starfield />
+      <SeasonLayer />
       <div
         aria-hidden="true"
         className="pointer-events-none absolute inset-x-0 top-0 h-[34rem] bg-gradient-to-b from-roberts_blue-700/70 to-transparent"

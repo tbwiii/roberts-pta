@@ -9,6 +9,8 @@ import {
 import { springs, timeline } from "../lib/motion";
 import ClipboardJS from "clipboard";
 import { IconCheck, IconCopy } from "@tabler/icons-react";
+import { SnowCap } from "../themes/snow-cap";
+import { useSeason } from "../themes/use-season";
 
 export type Tone = "yellow" | "red" | "white";
 
@@ -74,6 +76,7 @@ export default function Item({
   // Internal links are relative; copy the full address so it works when pasted.
   const shareUrl = new URL(url, window.location.href).href;
   const reduce = useReducedMotion();
+  const christmas = useSeason() === "christmas";
   const stub = useAnimationControls();
 
   // Pointer tilt (fine pointers only)
@@ -244,6 +247,7 @@ export default function Item({
             {copied ? `Link to ${name} copied` : ""}
           </span>
         </motion.button>
+        {christmas && <SnowCap index={index} reduced={!!reduce} />}
       </motion.div>
       {/* star burst, centered on the stub */}
       <span
