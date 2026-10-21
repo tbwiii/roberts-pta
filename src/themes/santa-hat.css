@@ -1,0 +1,12 @@
+/* Pom-pom and hat tip sway; disabled for reduced motion. */
+@keyframes santa-sway {
+  0% { transform: rotate(-5deg); }
+  100% { transform: rotate(6deg); }
+}
+.santa-tip {
+  transform-origin: 62px 16px;
+  animation: santa-sway 1.7s ease-in-out infinite alternate;
+}
+@media (prefers-reduced-motion: reduce) {
+  .santa-tip { animation: none; }
+}

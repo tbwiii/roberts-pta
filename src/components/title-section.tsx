@@ -10,6 +10,8 @@ import {
   type MotionValue,
 } from "framer-motion";
 import { springs, timeline } from "../lib/motion";
+import { SantaHat } from "../themes/santa-hat";
+import { useSeason } from "../themes/use-season";
 
 const flames = [
   { src: "/flame-lg.png", top: -4, w: 40, delay: 0.2 },
@@ -133,6 +135,7 @@ function Letters({ text, start }: { text: string; start: number }) {
 export function TitleSection() {
   const reduce = !!useReducedMotion();
   const animateIn = !reduce;
+  const christmas = useSeason() === "christmas";
   const [settled, setSettled] = useState(reduce);
   const [badgeOn, setBadgeOn] = useState(false);
 
@@ -199,6 +202,7 @@ export function TitleSection() {
                   width={188}
                   height={312}
                 />
+                {christmas && <SantaHat animate={animateIn} />}
                 <Flame flare={flare} flicker={settled && animateIn} animateIn={animateIn} />
               </div>
             </motion.div>

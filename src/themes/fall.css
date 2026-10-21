@@ -1,0 +1,135 @@
+.fall-root {
+  position: absolute;
+  inset: 0;
+}
+
+/* ---- falling leaves ---- */
+.fall-leaf {
+  position: absolute;
+  top: 0;
+  left: var(--fall-x);
+  width: var(--fall-size);
+  height: var(--fall-size);
+  transform: translate3d(0, -12vh, 0);
+  animation: fall-drop var(--fall-dur) linear var(--fall-delay) infinite;
+  will-change: transform;
+}
+.fall-leaf-sway {
+  width: 100%;
+  height: 100%;
+  animation: fall-tumble calc(var(--fall-dur) / 3) ease-in-out var(--fall-delay) infinite alternate;
+}
+.fall-leaf-static {
+  top: var(--fall-y);
+  transform: rotate(var(--fall-rot));
+  animation: none;
+  will-change: auto;
+}
+.fall-leaf-static .fall-leaf-sway {
+  animation: none;
+}
+
+@keyframes fall-drop {
+  from { transform: translate3d(0, -12vh, 0); }
+  to { transform: translate3d(0, 112vh, 0); }
+}
+@keyframes fall-tumble {
+  from { transform: translate3d(calc(var(--fall-sway) * -1), 0, 0) rotate(calc(var(--fall-rot) * -0.4)); }
+  to { transform: translate3d(var(--fall-sway), 0, 0) rotate(var(--fall-rot)); }
+}
+
+/* ---- corner garlands ---- */
+.fall-corner {
+  position: absolute;
+  top: 0;
+  width: 52px;
+  height: 52px;
+  opacity: 0.92;
+}
+.fall-corner-l { left: 0; transform-origin: 0 0; }
+.fall-corner-r { right: 0; transform-origin: 100% 0; }
+.fall-corner-r > svg { transform: scaleX(-1); }
+.fall-sway { animation: fall-garland 9s ease-in-out infinite alternate; }
+.fall-corner-r.fall-sway { animation-delay: -4s; }
+@keyframes fall-garland {
+  from { transform: rotate(-2deg); }
+  to { transform: rotate(2deg); }
+}
+
+/* ---- pumpkin row ---- */
+.fall-row {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0 12px env(safe-area-inset-bottom, 0px);
+}
+/* Props stay in two groups so wide screens leave the content column clear. */
+.fall-group {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  width: 50%;
+}
+.fall-prop {
+  animation: fall-bob 4.5s ease-in-out var(--fall-bob-delay, 0s) infinite;
+}
+.fall-art { margin-bottom: -3px; height: 100%; width: auto; display: block; overflow: visible; }
+.fall-h-lg { height: 38px; }
+.fall-h-md { height: 32px; }
+.fall-h-sm { height: 24px; }
+@keyframes fall-bob {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-3px); }
+}
+
+.fall-jack {
+  animation: fall-flicker 2.6s ease-in-out infinite;
+  filter: drop-shadow(0 0 3px #ffb52e) drop-shadow(0 0 6px rgba(255, 170, 40, 0.8));
+}
+@keyframes fall-flicker {
+  0%, 100% { opacity: 1; }
+  18% { opacity: 0.75; }
+  32% { opacity: 1; }
+  55% { opacity: 0.85; }
+  70% { opacity: 0.98; }
+  85% { opacity: 0.7; }
+}
+
+.fall-hide-sm { display: none; }
+
+/* The right corner sits on the phone subtitle, so it only shows from sm up. */
+.fall-corner-r { display: none; }
+
+@media (min-width: 640px) {
+  .fall-corner { width: 104px; height: 104px; }
+  .fall-corner-r { display: block; }
+}
+
+/* Large pumpkins only where the side gutters (beside the 42rem column) fit them: about 1150px and up. */
+@media (min-width: 1200px) {
+  .fall-hide-sm { display: block; }
+  .fall-h-lg { height: 72px; }
+  .fall-h-md { height: 58px; }
+  .fall-h-sm { height: 40px; }
+  .fall-row { padding-left: 24px; padding-right: 24px; }
+  .fall-group { width: min(300px, calc((100vw - 720px) / 2 - 24px)); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fall-root *,
+  .fall-reduced *,
+  .fall-root {
+    animation: none !important;
+  }
+  .fall-leaf { will-change: auto; }
+}
+
+/* JS-driven reduced motion (reduced prop) */
+.fall-reduced *,
+.fall-reduced {
+  animation: none !important;
+}
