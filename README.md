@@ -21,4 +21,6 @@ Decorations live in `src/themes/` and sit on a click-through layer, so the layou
 - **Preview:** add `?season=fall` or `?season=christmas` before any `#`, e.g. `/?season=christmas` or `/?season=christmas#/favorites` (not `/#/favorites?season=...`).
 - **Add a season:** write a component like `fall-layer.tsx` (fixed, `pointer-events-none`, static when `reduced` is true), add it to the switch in `season.tsx`, and add a window in `config.ts`.
 
+Christmas also piles snow on the link cards (`snow-cap.tsx`, rendered from `item.tsx` only when the season is `christmas`).
+
 Everything respects `prefers-reduced-motion` (decor stays, motion stops). `yarn test` covers the date logic.
