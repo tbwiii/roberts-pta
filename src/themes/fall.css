@@ -109,6 +109,11 @@
   .fall-corner-r { display: block; }
 }
 
+/* Mid widths: small pumpkins, kept in the gutters beside the 42rem column. */
+@media (min-width: 900px) {
+  .fall-group { width: calc((100vw - 696px) / 2); }
+}
+
 /* Large pumpkins only where the side gutters (beside the 42rem column) fit them: about 1150px and up. */
 @media (min-width: 1200px) {
   .fall-hide-sm { display: block; }

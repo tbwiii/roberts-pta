@@ -151,22 +151,23 @@ const PROPS: Prop[] = [
 /* ---------- Corner garland ---------- */
 
 function Garland() {
+  // A swag that wraps the top-left corner; the screen edge crops it, not the svg box.
+  const leaf = (x: number, y: number, rot: number, scale: number, shape: "maple" | "oak" | "round", color: string) => (
+    <g transform={`translate(${x} ${y}) rotate(${rot}) scale(${scale}) translate(-12 -12)`}>
+      <Leaf shape={shape} color={color} />
+    </g>
+  );
   return (
-    <svg viewBox="0 0 120 120" width="100%" height="100%">
-      <path d="M-2 14 C30 18 52 30 64 52 C72 66 78 76 84 84" fill="none" stroke="#6b4a2a" strokeWidth="2.2" strokeLinecap="round" />
-      <g transform="translate(34 18) rotate(-20) scale(1.35) translate(-12 -12)">
-        <Leaf shape="maple" color="#e8731a" />
-      </g>
-      <g transform="translate(14 34) rotate(25) translate(-12 -12)">
-        <Leaf shape="round" color="#f2b134" />
-      </g>
-      <g transform="translate(58 40) rotate(40) scale(1.2) translate(-12 -12)">
-        <Leaf shape="oak" color="#c8452d" />
-      </g>
-      <g transform="translate(72 70) rotate(-30) scale(.95) translate(-12 -12)">
-        <Leaf shape="maple" color="#f2b134" />
-      </g>
-      <g transform="translate(84 92) rotate(10) scale(.9) translate(-12 -15)">
+    <svg viewBox="0 0 120 120" width="100%" height="100%" style={{ overflow: "visible" }}>
+      <path d="M0 78 C6 36 36 6 78 0" fill="none" stroke="#6b4a2a" strokeWidth="2.2" strokeLinecap="round" />
+      {leaf(22, 52, 60, 0.9, "maple", "#c8452d")}
+      {leaf(48, 26, -50, 0.9, "oak", "#f2b134")}
+      {leaf(4, 60, 20, 1.1, "round", "#f2b134")}
+      {leaf(12, 44, -30, 1.3, "maple", "#e8731a")}
+      {leaf(25, 25, 45, 1.4, "oak", "#c8452d")}
+      {leaf(44, 12, 10, 1.2, "maple", "#f2b134")}
+      {leaf(60, 4, -20, 1.1, "round", "#e8731a")}
+      <g transform="translate(38 40) rotate(8) scale(.7) translate(-12 -15)">
         <path d="M5 14 C5 24 9 27 12 28 C15 27 19 24 19 14 Z" fill="#c98a3a" />
         <path d="M3.5 14.5 C3.5 8 8 6 12 6 C16 6 20.5 8 20.5 14.5 Z" fill="#7a4a24" />
         <path d="M12 6 L12 -4" stroke="#5a3418" strokeWidth="1.4" />

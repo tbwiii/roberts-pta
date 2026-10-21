@@ -6,8 +6,8 @@ export function SantaHat({ animate }: { animate: boolean }) {
     <svg
       aria-hidden="true"
       viewBox="0 0 100 92"
-      className="pointer-events-none absolute z-20 w-[62%] overflow-visible"
-      style={{ left: "27.5%", top: "-5%" }}
+      className="pointer-events-none absolute z-20 w-[73%] overflow-visible"
+      style={{ left: "23.4%", top: "-9%" }}
     >
       {/* hat body */}
       <path d="M6 72 C10 40 34 16 62 16 L66 76 Z" fill="#d93a3a" />
