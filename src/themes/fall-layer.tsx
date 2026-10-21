@@ -160,6 +160,13 @@ function Garland() {
   return (
     <svg viewBox="0 0 120 120" width="100%" height="100%" style={{ overflow: "visible" }}>
       <path d="M0 78 C6 36 36 6 78 0" fill="none" stroke="#6b4a2a" strokeWidth="2.2" strokeLinecap="round" />
+      {/* fill the corner inside the arc */}
+      {leaf(-2, 2, 15, 1.4, "maple", "#c8452d")}
+      {leaf(8, 10, -15, 1.2, "maple", "#e8731a")}
+      {leaf(22, 8, 70, 1.0, "round", "#c8452d")}
+      {leaf(8, 28, 30, 1.0, "oak", "#f2b134")}
+      {leaf(34, 14, -40, 0.9, "oak", "#e8731a")}
+      {leaf(16, 18, 100, 1.1, "round", "#f2b134")}
       {leaf(22, 52, 60, 0.9, "maple", "#c8452d")}
       {leaf(48, 26, -50, 0.9, "oak", "#f2b134")}
       {leaf(4, 60, 20, 1.1, "round", "#f2b134")}
