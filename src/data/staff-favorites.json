@@ -247,13 +247,13 @@
     "id": "janel-akpuchukwu",
     "firstName": "Janel",
     "lastName": "Akpuchukwu",
-    "role": "Occupational Therapist",
+    "role": "Occupational Therapists for entire Roberts Elem",
     "birthday": "May 4",
     "monogram": "JOA",
-    "size": "M",
+    "size": "L",
     "allergies": "",
     "pets": "",
-    "enough": "",
+    "enough": "You guys are awesome!",
     "wishlist": "",
     "wishlistUrl": "",
     "favorites": [
@@ -263,15 +263,15 @@
       },
       {
         "label": "Holiday",
-        "value": "Christmas"
+        "value": "New Years"
       },
       {
         "label": "Movies/TV Shows",
-        "value": "Silo"
+        "value": "FBI"
       },
       {
         "label": "Genre of Books",
-        "value": "Inspirational/Gospel"
+        "value": "Bible"
       },
       {
         "label": "Candy",
@@ -279,27 +279,27 @@
       },
       {
         "label": "Gum",
-        "value": "Spearmint"
+        "value": "Mint"
       },
       {
         "label": "Sweet Snack",
-        "value": "Cinnamon rolls"
+        "value": "Twix"
       },
       {
         "label": "Salty Snack",
-        "value": "Doritos"
+        "value": "Snickers"
       },
       {
         "label": "Ice Cream",
-        "value": "Praline or vanilla butter cake"
+        "value": "Cookies n Cream"
       },
       {
         "label": "Fast Food",
-        "value": "Zaxby’s/chick-fil-a"
+        "value": "Zaxbys"
       },
       {
         "label": "Restaurant",
-        "value": "Anything seafood"
+        "value": "Rreal Tacos"
       },
       {
         "label": "Flower/Plant",
@@ -307,11 +307,15 @@
       },
       {
         "label": "Coffee Order",
-        "value": "Vanilla Mocha(hot)"
+        "value": "Vanilla or Carmel flavor anything"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Spirit"
       },
       {
         "label": "Fruit",
-        "value": "Blackberry"
+        "value": "Blueberries"
       },
       {
         "label": "Place to Shop",
@@ -319,11 +323,11 @@
       },
       {
         "label": "Hobbies",
-        "value": "Tennis/Traveling"
+        "value": "Traveling"
       },
       {
         "label": "Scents",
-        "value": "Vanilla"
+        "value": "Warm scents"
       }
     ]
   },
@@ -4600,6 +4604,98 @@
       {
         "label": "Scents",
         "value": "Clean Linen"
+      }
+    ]
+  },
+  {
+    "id": "kieran-ross",
+    "firstName": "Kieran",
+    "lastName": "Ross",
+    "role": "Special needs preschool",
+    "birthday": "June 23",
+    "monogram": "KRL",
+    "size": "L",
+    "allergies": "",
+    "pets": "2 dogs. Charlie (golden mountain doodle) Inkle (yellow lab)",
+    "enough": "",
+    "wishlist": "Velcro, lamination sheets, post it notes",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Yellow or red"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "Moonstruck"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Romance"
+      },
+      {
+        "label": "Candy",
+        "value": "Chocolate"
+      },
+      {
+        "label": "Gum",
+        "value": "Any"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Cookies"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Pretzels"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Mint chocolate chip"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chick fil A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Daisy"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "Any that has cream and sugar"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Flavored water"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "Yankees Giants"
+      },
+      {
+        "label": "Fruit",
+        "value": "Apples"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Hobby Lobby or Home Depot"
+      },
+      {
+        "label": "Hobbies",
+        "value": "Crochet, cooking, baking"
+      },
+      {
+        "label": "Scents",
+        "value": "Floral or musk"
       }
     ]
   },
