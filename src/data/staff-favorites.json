@@ -2140,6 +2140,94 @@
     ]
   },
   {
+    "id": "dana-gossett",
+    "firstName": "Dana",
+    "lastName": "Gossett",
+    "role": "Pre-k Parapro",
+    "birthday": "July 20",
+    "monogram": "DGN",
+    "size": "M",
+    "allergies": "Strawberries",
+    "pets": "",
+    "enough": "",
+    "wishlist": "Pens/Different color Sharpies",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "Green"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Movies/TV Shows",
+        "value": "RomCom/Comedy/Drama"
+      },
+      {
+        "label": "Genre of Books",
+        "value": "Mystery"
+      },
+      {
+        "label": "Candy",
+        "value": "Watermelon Sour Patch Kids"
+      },
+      {
+        "label": "Gum",
+        "value": "Extra Spearmint"
+      },
+      {
+        "label": "Sweet Snack",
+        "value": "Reese's peanut butter cups"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "Honey Roasted cashews"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Ben and Jerry's Americone Dream"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chic fil A"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Texas Roadhouse"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "Roses"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "White Chocolate Mocha"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "Monster Energy Pipeline Punch/Cherry Coke"
+      },
+      {
+        "label": "Sports Team(s)",
+        "value": "LSU"
+      },
+      {
+        "label": "Fruit",
+        "value": "Apples"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "American Eagle/Bath and Body Works/Old Navy"
+      },
+      {
+        "label": "Scents",
+        "value": "Fresh/fruity"
+      }
+    ]
+  },
+  {
     "id": "kimberly-grimes",
     "firstName": "Kimberly",
     "lastName": "Grimes",
@@ -2316,6 +2404,74 @@
       {
         "label": "Scents",
         "value": "Amber, fresh/clean scents, high maintenance Diva"
+      }
+    ]
+  },
+  {
+    "id": "monique-hart",
+    "firstName": "Monique",
+    "lastName": "Hart",
+    "role": "3rd",
+    "birthday": "November 8",
+    "monogram": "MFH",
+    "size": "M",
+    "allergies": "",
+    "pets": "",
+    "enough": "",
+    "wishlist": "",
+    "wishlistUrl": "",
+    "favorites": [
+      {
+        "label": "Color",
+        "value": "yellow"
+      },
+      {
+        "label": "Holiday",
+        "value": "Christmas"
+      },
+      {
+        "label": "Candy",
+        "value": "fast breaks, butter fingers, pumpkin candy corn"
+      },
+      {
+        "label": "Salty Snack",
+        "value": "sour cream and cheddar chips, cheezits"
+      },
+      {
+        "label": "Ice Cream",
+        "value": "Milk and Cookies, Jeni's"
+      },
+      {
+        "label": "Fast Food",
+        "value": "Chickfila"
+      },
+      {
+        "label": "Restaurant",
+        "value": "Chipotle"
+      },
+      {
+        "label": "Flower/Plant",
+        "value": "tulips"
+      },
+      {
+        "label": "Coffee Order",
+        "value": "brown sugar chai"
+      },
+      {
+        "label": "Other Beverage",
+        "value": "coconut water"
+      },
+      {
+        "label": "Fruit",
+        "value": "watermelon"
+      },
+      {
+        "label": "Place to Shop",
+        "value": "Target"
+      },
+      {
+        "label": "Scents",
+        "value": "anything other then floral"
       }
     ]
   },
