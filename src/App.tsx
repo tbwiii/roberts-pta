@@ -6,6 +6,7 @@ import Social from "./components/social";
 import Starfield from "./components/starfield";
 import InstallBanner from "./components/install-banner";
 import FavoritesPage from "./components/favorites-page";
+import HolidayShopSchedulePage from "./components/holiday-shop-schedule-page";
 import { SeasonLayer } from "./themes/season";
 
 // Hash routing keeps the site a single static page: no server rewrites needed.
@@ -20,7 +21,9 @@ function useHash() {
 }
 
 function App() {
-  const onFavorites = useHash().startsWith("#/favorites");
+  const hash = useHash();
+  const onFavorites = hash.startsWith("#/favorites");
+  const onHolidayShopSchedule = hash.startsWith("#/holiday-shop-schedule");
   return (
     <div className="font-roberts relative min-h-screen overflow-hidden bg-roberts_blue-900">
       <Starfield />
@@ -31,6 +34,8 @@ function App() {
       />
       {onFavorites ? (
         <FavoritesPage />
+      ) : onHolidayShopSchedule ? (
+        <HolidayShopSchedulePage />
       ) : (
         <>
           <main className="relative mx-auto flex w-full max-w-2xl flex-col gap-8 px-4 pb-12 pt-8 sm:px-6 sm:pt-14">

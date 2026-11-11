@@ -1,6 +1,7 @@
 import { ReactNode } from "react";
 import Item, { Tone } from "./item";
 import { holidayShop } from "../data/holiday-shop";
+import { holidayShopScheduleLink } from "../data/holiday-shop-schedule";
 import {
   IconUsersGroup,
   IconShirtFilled,
@@ -9,6 +10,7 @@ import {
   IconClipboardList,
   IconCalendarEvent,
   IconGift,
+  IconClock,
 } from "@tabler/icons-react";
 
 interface Link {
@@ -70,12 +72,19 @@ const ItemList = () => {
     <nav aria-label="PTA links">
       <ul className="grid gap-5 sm:grid-cols-2">
         <Item {...holidayShop} tone="red" icon={<IconGift size={26} />} wide index={0} />
-        <Item {...featured} featured index={1} />
+        <Item
+          {...holidayShopScheduleLink}
+          tone="red"
+          icon={<IconClock size={26} />}
+          wide
+          index={1}
+        />
+        <Item {...featured} featured index={2} />
         {rest.map((link, i) => (
           <Item
             key={link.url}
             {...link}
-            index={i + 2}
+            index={i + 3}
             // Volunteer spans the row under Join so the two asks read as a pair.
             wide={i === 0}
           />
